@@ -1,0 +1,46 @@
+***  Installation Started 09/06/99 9:46  ***
+Title: Free Solitaire Installation
+Source: C:\WORK\FREESOL.EXE
+Made Dir: D:\free solitaire
+File Copy: D:\free solitaire\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Free Solitaire
+RegDB Val: Free Solitaire
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Free Solitaire
+RegDB Val: D:\FREESO~1\UNWISE.EXE D:\FREESO~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: D:\free solitaire\Images
+File Copy: D:\free solitaire\Images\sp2.gzf
+File Copy: D:\free solitaire\Images\sp1.gzf
+File Copy: D:\free solitaire\Images\sp.url
+File Copy: D:\free solitaire\Images\solgames.url
+File Copy: D:\free solitaire\Images\solgames.gzf
+File Copy: D:\free solitaire\Images\psp.url
+File Copy: D:\free solitaire\Images\psp.gzf
+File Copy: D:\free solitaire\Images\pgs3.gzf
+File Copy: D:\free solitaire\Images\pgs2.gzf
+File Copy: D:\free solitaire\Images\pgs1.gzf
+File Copy: D:\free solitaire\Images\21sol.gzf
+File Copy: D:\free solitaire\Images\21sol.url
+File Copy: D:\free solitaire\Images\fcorg.gzf
+File Copy: D:\free solitaire\Images\fcorg.url
+File Copy: D:\free solitaire\Images\fcw.gzf
+File Copy: D:\free solitaire\Images\fcw.url
+File Copy: D:\free solitaire\Images\pgs.url
+File Copy: D:\free solitaire\Readme.txt
+File Copy: D:\free solitaire\Free Solitaire on the Web.url
+File Copy: D:\free solitaire\Tips.ini
+File Copy: D:\free solitaire\NViewLib.dll
+File Copy: D:\free solitaire\FreeSolitaire.exe
+File Copy: D:\free solitaire\FreeSolitaire.cnt
+File Copy: D:\free solitaire\FreeSolitaire.hlp
+File Copy: C:\WINDOWS\SYSTEM\Advert.dll
+File Copy: C:\WINDOWS\SYSTEM\Amcis.dll
+Made Dir: C:\WINDOWS\Start Menu\Programs\Free Solitaire
+Shell Link: C:\WINDOWS\Start Menu\Programs\Free Solitaire\Free Solitaire.lnk
+Shell Link: C:\WINDOWS\Start Menu\Programs\Free Solitaire\Free Solitaire Help.lnk
+Shell Link: C:\WINDOWS\Start Menu\Programs\Free Solitaire\Free Solitaire on the Web.lnk
+Self-Register: C:\WINDOWS\SYSTEM\AMCIS.DLL
+File Tree: C:\WINDOWS\amc

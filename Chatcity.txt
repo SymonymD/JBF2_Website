@@ -1,0 +1,60 @@
+
+<CENTER>
+<FORM NAME="logon" METHOD="GET" ACTION="
+http://www.talkcity.com/chat.cgi">
+<P ALIGN=CENTER>
+ <TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0">
+   <TR>
+     <TD><B>Nickname:</B></TD>
+     <TD><INPUT TYPE="text" NAME="nick" SIZE="20"></TD>
+     <TD><FONT SIZE=-2>(required)</FONT></TD></TR>
+   <TR>
+     <TD><B>Real Name:</B></TD>
+     <TD><INPUT TYPE="text" NAME="real" SIZE="20"></TD>
+     <TD><FONT SIZE=-2>(optional)</FONT></TD></TR>
+   <TR>
+     <TD><B>Email:</B></TD>
+     <TD><INPUT TYPE="text" NAME="email" SIZE="20"></TD>
+     <TD><FONT SIZE=-2>(optional)</FONT></TD></TR>
+   <TR>
+     <TD><B>URL:</B></TD>
+     <TD><INPUT TYPE="text" NAME="url" SIZE="20"></TD>
+     <TD><FONT SIZE=-2>(optional)</FONT></TD></TR>
+   <TR>
+     <TD COLSPAN="3" Height="50"><CENTER><INPUT TYPE="submit"
+VALUE="Start Chatting">
+     <INPUT TYPE="hidden" NAME="room"
+VALUE="JBENZChat"></CENTER></TD></TR>
+   <TR>
+     <TD COLSPAN="3"><P ALIGN=CENTER><A
+HREF="http://www.talkcity.com/irc/apply.html">
+     <IMG SRC="http://www.talkcity.com/images/chat1.gif"
+ALIGN="BOTTOM"></A></P></TD></TR>
+   <TR>
+     <TD COLSPAN="3"><P ALIGN=CENTER><FONT SIZE=-1>Add chat to
+your web
+site with
+     <BR>the <A HREF="http://www.talkcity.com/irc/apply.html">Chat @ Talk
+City</A>
+     program</FONT></P></TD></TR>
+</TABLE>
+</P>
+</FORM>
+</CENTER>
+
+
+
+
+
+<TABLE WIDTH="130" BORDER="0" CELLSPACING="0"
+CELLPADDING="0">
+  <TR>
+    <TD><CENTER><A HREF="http://www.talkcity.com/irc/apply.html">
+    <IMG
+SRC="http://www.talkcity.com/images/chat1.gif"></A></CENTER></TD></TR>
+  <TR>
+    <TD><CENTER><FONT SIZE=-1>Add chat to your web site with<BR>
+    the <A HREF="http://www.talkcity.com/irc/apply.html">Chat @ Talk
+City</A>
+    program</FONT></CENTER></TD></TR>
+</TABLE>

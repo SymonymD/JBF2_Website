@@ -1,0 +1,5666 @@
+{\rtf1\ansi\deff0\deftab720{\fonttbl{\f0\fswiss MS Sans Serif;}{\f1\froman\fcharset2 Symbol;}{\f2\fmodern Courier New;}}
+{\colortbl\red0\green0\blue0;}
+\deflang1033\pard\plain\f2\fs20 A NIGHT IN ELSINORE\
+\
+                        a parody of William Shakespeare's       \
+                        HAMLET\
+                        committed by Richard Nathan\
+                         (Richard-Nathan@worldnet.att.net)\
+\tab \tab \tab \tab http://www.dramex.org/plays/scripts/elsinore.txt\
+ACT I\
+\
+Scene I\
+\
+\
+Scene I takes place on a platform in front of \
+Elsinore Castle.  FRANCISCO is on duty.  Enter \
+BERNARDO.\
+\
+\
+        BERNARDO\
+Who's there?\
+\
+        FRANCISCO\
+Nay, answer me.  Stand and unfold \
+yourself.\
+\
+        BERNARDO\
+Long live the King!\
+\
+        FRANCISCO\
+Bernardo?\
+\
+        BERNARDO\
+I am he.\
+\
+        FRANCISCO\
+You come most carefully upon your \
+hour.\
+\
+        BERNARDO\
+'Tis now struck twelve.\
+\
+\
+Off stage, there is the sound of someone \
+approaching.\
+\
+\
+        FRANCISCO\
+Who is there?  Stand ho!\
+\
+\
+Enter HORATIO, who is dressed rather shabbily and \
+who speaks with an unusual Italian accent.  He is \
+more an antique Roman than a Dane.\
+\
+\
+        HORATIO\
+That's right!  You guessed it.\
+\
+        BERNARDO\
+What's right?  Guessed what?\
+\
+        HORATIO\
+You said, "Stand Ho!"  That's me!  \
+Ho!\
+\
+        BERNARDO\
+Ho!  Ho who?\
+\
+        HORATIO\
+Gezundheit!\
+\
+        FRANCISCO\
+Why, 'tis good Horatio!  How dost \
+thou, Horatio?\
+\
+        HORATIO\
+I don't do much dusting anymore.  \
+I'm a guard now.  I guard the \
+castle gate, and I do a pretty good \
+job too.\
+\
+        FRANCISCO\
+Really?\
+\
+        HORATIO\
+Sure.  It's still there.\
+\
+        BERNARDO\
+Has the apparition appeared again \
+tonight?\
+\
+        FRANCISCO\
+I have seen nothing.\
+\
+        BERNARDO\
+Horatio, do you know ought of the \
+Ghost?\
+\
+        HORATIO\
+Well, I ought to.  Hey, that's some \
+funny joke, eh?\
+\
+        BERNARDO\
+Come, come, Horatio.  Do you know \
+anything of ghosts?\
+\
+        HORATIO\
+Sure, I knew an old ghost once.  \
+But that was a long, long time ago.  \
+He's probably dead by now.\
+\
+        FRANCISCO\
+Look!  It comes again!  The ghost \
+of our late King Hamlet!\
+\
+\
+Enter the GHOST, a bright-eyed imp who happens to \
+be mute.\
+\
+\
+        BERNARDO\
+There is the apparition!\
+\
+        HORATIO\
+I don't believe it.\
+\
+\
+The Ghost and Horatio joyously embrace.\
+\
+\
+        BERNARDO\
+Stay illusion!  If thou hast any \
+sound or use of voice, speak to me!\
+\
+\
+The Ghost honks a horn.\
+\
+\
+        FRANCISCO\
+Question it, Horatio.\
+\
+        HORATIO\
+Hey, Ghost, how ya doing?\
+\
+\
+The Ghost does a melodramatic death scene.\
+\
+\
+        HORATIO\
+You're dead, huh?  Gee, that's too \
+bad.\
+\
+\
+The Ghost sits up and nods his head "yes."\
+\
+\
+        FRANCISCO\
+Ask him about the war!\
+\
+        HORATIO\
+What war?\
+\
+        FRANCISCO\
+Ask him if we should go to war with \
+young Fortinbras!\
+\
+        HORATIO\
+Hey, Ghost, should we go to war \
+with Fortinbras?\
+\
+\
+The Ghost shakes his head "no."  He hold up ten \
+fingers, and then three fingers.\
+\
+\
+        HORATIO\
+No.  He says Fortinbras is too \
+many.  He thinks we should go to \
+war with thirteen-bras.\
+\
+\
+The Ghost slaps his knee and goes into fits of \
+silent laughter.\
+\
+\
+        FRANCISCO\
+No, no!  You remember, young \
+Fortinbras is the son of old \
+Fortinbras, who was King of Norway, \
+until our late King Hamlet killed \
+him and took most of the Norwegian \
+lands.\
+\
+\
+The Ghost mocks Francisco's overly-serious manner, \
+and makes faces at him.  Suddenly he looks \
+offstage and panics.\
+\
+\
+        HORATIO\
+What's the matter?\
+\
+\
+The Ghost starts to run offstage, but Horatio \
+blocks his way.\
+\
+\
+        HORATIO\
+Where you going?  What're you \
+doing?\
+\
+\
+The Ghost whistles and points to the horizon.\
+\
+\
+        HORATIO\
+What do you mean?  I don't get it.\
+\
+\
+The Ghost decides to explain in pantomime.  The \
+Ghost points down.\
+\
+\
+        HORATIO\
+Down?\
+\
+\
+The Ghost whistles and nods enthusiastically.  \
+Then the Ghost mimes picking up something and \
+raising it.\
+\
+\
+        HORATIO\
+What?  Down is up?  You're crazy!  \
+How can down be up?\
+\
+\
+The Ghost shakes his head "no."  He holds out a \
+hand to signal that he wants to start again.\
+\
+\
+        HORATIO\
+Okay.  We start again.\
+\
+\
+The Ghost mimes putting a cigar into his mouth, \
+and then loping across the stage while raising and \
+lowering his eyebrows.\
+\
+\
+        HORATIO\
+Wait a minute!  I think I seen that \
+guy before.  Let me think ...  I \
+know!  That's the man who comes to \
+fix the sink!\
+\
+\
+The Ghost shakes his head "no."\
+\
+\
+        HORATIO\
+No?  Who is it?\
+\
+\
+The Ghost mimes holding a baby in his arms, acting \
+like a father.\
+\
+\
+        HORATIO\
+It's your son?  It's Prince Hamlet?  \
+The one you named after yourself?  \
+Funny, he looks just like the man \
+who comes to fix the sink.\
+\
+\
+The Ghost threatens to hit Horatio.\
+\
+\
+        HORATIO\
+OK.  Hamlet.   He's your son.  Your \
+son!\
+\
+\
+The Ghost mimes proudly holding the baby in his \
+arms.  Then he mimes lifting the baby up.\
+\
+\
+        HORATIO\
+He's going up?  Hamlet's going up?\
+\
+\
+The Ghost shakes his head "no," and then holds out \
+his hand to signal that he wants to try again.\
+\
+\
+        HORATIO\
+OK.  We try again.\
+\
+\
+The Ghost again mimes Hamlet loping across the \
+stage.  Then, as Hamlet, he starts silently \
+weeping and crying.\
+\
+\
+        HORATIO\
+Hamlet.  He's sad.  He's crying.  \
+Why's he crying?\
+\
+\
+The Ghost points to himself and does his death \
+scene again.  Then he goes back to Hamlet crying, \
+and pointing to where he died.\
+\
+\
+        HORATIO\
+He cries because you're dead.  He's \
+in mourning.\
+\
+\
+As soon as Horatio says, "mourning," the Ghost \
+starts joyfully jumping up and down and nodding \
+"yes."\
+\
+\
+        HORATIO\
+That's it!!!  Mourning!  It's \
+morning ... \
+\
+\
+The Ghost again mimes lifting the baby.\
+\
+\
+        HORATIO\
+. . .  and something's going up.  \
+The sun is coming up!  It's \
+morning, dawn, and the sun is \
+coming up, so you've got to leave \
+now.  OK, I understand.  Good-bye, \
+Ghost.  I'll be seeing you.  Good-\
+bye.\
+\
+\
+The Ghost exits, waving good-bye and blowing \
+kisses.\
+\
+\
+        HORATIO\
+Hey, he's a nice ghost.\
+\
+        FRANCISCO\
+Come.  Let us impart what we have \
+seen tonight to young Prince \
+Hamlet.\
+\
+\
+Exeunt.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene II\
+\
+\
+Scene II takes place in a room in Elsinore Castle.  \
+Flourish.  Enter the KING, the QUEEN, HAMLET (who \
+has his back to the audience), POLONIUS, LAERTES, \
+and OPHELIA.  The King is a slightly overweight \
+man with a beard and a middle-European accent.  \
+His name is Claudius.  Gertrude, the Queen, is a \
+stately dowager-type.  Polonius is a foolish old \
+man.  Ophelia is an attractive blonde who is very \
+clever and very ambitious.   Laertes is a young \
+man, excitable, but not very bright.  In the \
+original production of this play, he was played in \
+a style resembling Daffy Duck (including the \
+lisp), and it worked.\
+\
+\
+        KING\
+Though yet of Hamlet our dear \
+brother's death the memory be \
+green, and it befitted us to bear \
+our hearts in grief, and our whole \
+kingdom to be contracted in one \
+brow of woe, it's time we faced the \
+fact the old king's dead, and I \
+must run the kingdom.  I thank you \
+all for your condolences on the \
+death of my brother, the late King, \
+as I thank you for your good wishes \
+on my marriage to his widow, the \
+Queen.  Now then, on to our royal \
+business.  Young Fortinbras has \
+demanded that we surrender the \
+lands lost by his father.  I have \
+sent word to the aged king of \
+Norway, ordering him to bring young \
+Fortinbras into line!  Not one \
+patch of land shall we give up!  \
+\
+\
+The King looks around the room.  Everyone except \
+Hamlet looks pleased.  The King looks at Laertes.\
+\
+\
+        KING\
+Now, good Laertes, did you have \
+something you wished to ask of me?\
+\
+        LAERTES\
+Yes, Sire, your leave and favor to \
+return to France.\
+\
+        KING\
+Ahh, France, eh?  I'm told that \
+France is a lovely country, and I \
+hear they make most excellent wines \
+there.  Go.  Enjoy yourself.  And \
+be sure to send some postcards.  \
+Now, my nephew Hamlet, my son, how \
+is it the clouds still hang on you?\
+\
+\
+Hamlet turns to face the audience, and we see his \
+face for the first time.  Hamlet has a big, black \
+mustache that looks as if it might have been \
+painted on, and he smokes a cigar. \
+\
+\
+        HAMLET\
+Nay, I am too much in the sun!  Get \
+it? That's a joke.  My real father \
+just died, and now I've got you for \
+a father, so I'm too much in the \
+sun!  Boy, that Shakespeare sure \
+could write.  I'd like to see \
+Francis Bacon pull off a joke like \
+that.\
+\
+        KING\
+Hmmmmm.  Come, Hamlet, my son, how \
+is it the clouds still hang on you?\
+\
+        HAMLET\
+I don't know.  Maybe it's because \
+you're reigning.\
+\
+        QUEEN\
+Good Hamlet, I know full well the \
+love you bore your father.  But \
+cast thy nighted color off!  If he \
+were here today, do you think your \
+father would want us to mourn on \
+and on, wearing the same customary \
+suit of solemn black, day in and \
+day out?\
+\
+        HAMLET\
+Well, he'd probably ask you to \
+change your socks.\
+\
+        QUEEN\
+Hamlet, . . .\
+\
+        HAMLET\
+In fact, that's still a pretty good \
+idea.  And while you're at it, \
+change your husband.\
+\
+        QUEEN\
+Hamlet, I loved your dear, departed \
+father.  No woman could have loved \
+him more.\
+\
+        HAMLET\
+Of course not!  No other dame ever \
+had a chance, not with you watching \
+him like a hawk.  And a fat lot of \
+good it did him,  ... poor old Dad.\
+\
+        KING\
+Hamlet, it's unfortunate that your \
+father died, but fathers have a way \
+of doing that.  My father died, and \
+his father died before him, and his \
+father died...\
+\
+        HAMLET\
+Yeah, but uncles go on forever.  \
+Don't you?\
+\
+        KING\
+Hamlet, why don't you try to think \
+of me as your father?\
+\
+        HAMLET\
+OK, bury yourself six feet \
+underground, and I'll give it a \
+shot.\
+\
+        KING\
+Gertrude, we must do something \
+about this son of yours.\
+\
+Exeunt all but Hamlet.\
+\
+        HAMLET\
+Oh that this too, too solid flesh \
+would melt, or at least that they \
+would turn up the heat a little.  \
+To think that it should come to \
+this!  My father but two months \
+dead, and my mother married to this \
+satyr.  I recall the day they wed.  \
+It was a satyr-day.  Heaven and \
+Earth, must I remember?  My mother \
+has married my uncle, and turned me \
+into my own cousin.  Frailty, thy \
+name is woman.  And woman, thy name \
+is Frailty.  My name is Hamlet, and \
+I'm ashamed to meet the both of \
+you.\
+\
+\
+Enter Horatio, Francisco and Bernardo.  Horatio \
+consults with his friends.\
+\
+\
+        HORATIO\
+Hey, is that him?\
+\
+        HAMLET\
+Horatio, -- or I do forget myself!\
+\
+        HORATIO\
+Well, I don't know.  Who do you \
+think you are?\
+\
+        HAMLET\
+I'm Hamlet, Prince of Denmark.\
+\
+        HORATIO\
+Then you don't forget yourself... \
+not unless you're the man who comes \
+to fix the sink.  Then you got a \
+problem.\
+\
+        HAMLET\
+This can't be anyone but Horatio.  \
+Don't you remember me?  We went to \
+school together!\
+\
+        HORATIO\
+Sure, I know you!  You're Hamlet!\
+\
+        HAMLET\
+And you're Horatio!  But I thought \
+you were still going to school in \
+Wittenberg.\
+\
+        HORATIO\
+No, I left there a long time ago.  \
+I was too smart for them.\
+\
+        HAMLET\
+Oh really?\
+\
+        HORATIO\
+Yeah.  All the professors said \
+they'd never be able to teach me \
+anything.\
+\
+        HAMLET\
+Horatio, something is rotten in the \
+state of Denmark, and I think it's \
+you.\
+\
+        HORATIO\
+That reminds me.  I think I saw \
+your father's ghost last night!\
+\
+        HAMLET\
+What?  Are you sure it was him?  \
+Did you speak to him?\
+\
+        HORATIO\
+We spoke.  But he wouldn't answer.\
+\
+        HAMLET\
+That sounds like Dad, all right.  \
+Listen, boys, this is something I'm \
+going to have to see for myself.  \
+Let's meet at the top of the castle \
+tonight.\
+\
+\
+Exeunt.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene III\
+\
+\
+Scene III takes place in a room in Polonius' \
+house.  Enter Laertes and Ophelia.\
+\
+\
+        LAERTES\
+My necessaries are embarked.  \
+Farewell.  And sister, do be wary \
+of the affections of Prince Hamlet.  \
+Perhaps he does love you now, but \
+he is subject to his birth, and \
+therefore he must choose a royal \
+bride.\
+\
+        OPHELIA\
+Laertes, don't be such an ass!  Use \
+your brain for once!  Do you think \
+for one minute that Claudius is \
+going to let Hamlet marry a \
+princess?\
+\
+        LAERTES\
+Huh?\
+\
+        OPHELIA\
+Listen!  Hamlet has a better claim \
+to the throne than his uncle \
+Claudius does, right?  If Hamlet \
+marries into another royal family, \
+he'll gain powerful allies to help \
+him win the crown.  You think \
+Claudius wants that?  All I have to \
+do is convince the King that \
+Hamlet's been toying with my \
+affections, and I guarantee you \
+we'll be married before Hamlet \
+knows what's hit him.  Then I'll \
+figure out some way to get rid of \
+Claudius, and I'll be Queen of \
+Denmark!\
+\
+        LAERTES\
+Sister, you're brilliant!  But \
+look, here comes our father!\
+\
+\
+Enter Polonius.\
+\
+\
+        POLONIUS\
+Yet here, Laertes?  My blessings \
+with thee!  And take these few \
+precepts in thy memory:  Be thou \
+familiar, but by no means vulgar.\
+\
+\
+Enter Horatio.\
+\
+\
+        HORATIO\
+What's he gonna do in France if he \
+can't be vulgar?  How's he gonna \
+fit in?\
+\
+        POLONIUS\
+Horatio, you're not supposed to be \
+here, are you?\
+\
+        HORATIO\
+No, but I got two more hours before \
+I'm supposed to go to a secret \
+meeting with Hamlet at the top of \
+the castle, so I got lots of time \
+to kill.\
+\
+        POLONIUS\
+I was just giving some advice to my \
+son.\
+\
+        HORATIO\
+That's OK.  I'll add vice too.  I \
+got lots of vice.\
+\
+        POLONIUS\
+Very well.  Laertes, neither a \
+borrower nor a lender be . . .\
+\
+        HORATIO\
+That's a good idea.  But you know \
+what?  You're too late.  Laertes \
+loaned me ten gold kroner this \
+morning.\
+\
+        POLONIUS\
+Then give it back to him!\
+\
+        HORATIO\
+I can't.  Right after he gave me \
+the money, I put it down, and then \
+I lost it.\
+\
+        POLONIUS\
+You put it down and lost it???\
+\
+        HORATIO\
+Yeah, I put it down on a horse.\
+\
+        POLONIUS\
+This is terrible.\
+\
+        HORATIO\
+Yeah, now your son, he's a lender, \
+and what are we gonna do?  Hey, I \
+got a great idea!  You loan me ten \
+gold kroner, and then I'll pay \
+Laertes back, and then he won't be \
+a lender anymore.\
+\
+        POLONIUS\
+But if I lend you the money, then \
+I'll be a lender, and you'll still \
+be a borrower.\
+\
+        HORATIO\
+OK, I got a better idea.  You don't \
+be a lender, I don't be a borrower.  \
+You just give me the money.  How's \
+that?\
+\
+        POLONIUS\
+I don't know about this.\
+\
+        HORATIO\
+You want your son to stay a lender \
+all his life?\
+\
+\
+Polonius reaches into his money bag and takes out \
+a gold coin.\
+\
+\
+        POLONIUS\
+But all I've got is this twenty-\
+kroner piece.  Have you got change \
+for that?\
+\
+        HORATIO\
+No, but I'll take it, just the \
+same.\
+\
+\
+Horatio pockets the twenty-kroner piece.\
+\
+\
+        POLONIUS\
+At least you can now pay back to \
+Laertes the ten kroner you owe him.\
+\
+        HORATIO\
+Laertes, you got change for twenty \
+kroner?\
+\
+        LAERTES\
+No, I'm afraid not.\
+\
+Horatio turns to Polonius.\
+\
+        HORATIO\
+Now we got another problem.  I \
+can't give this coin to him.  If I \
+give him the coin, he'll owe me \
+money.  If he owes me money, then \
+he'll be a borrower.  He can't be a \
+borrower if you just told him not \
+to be a borrower!\
+\
+        POLONIUS\
+But...\
+\
+        HORATIO\
+Hey, I just got another great idea.  \
+Laertes, why don't you just say you \
+gave me the ten gold kroner?  Then \
+you won't be a lender!  You won't \
+be a borrower!  You'll just be a \
+nice guy, like your father!\
+\
+        LAERTES\
+Sounds okay to me.\
+\
+\
+Ophelia, the only really smart one in the family, \
+is furious with Horatio.  She scolds him, while \
+Polonius and Laertes try to figure out what's been \
+going on.\
+\
+\
+        OPHELIA\
+Horatio, you're nothing but a \
+cheap, conniving crook!\
+\
+        HORATIO\
+Yeah, that's me.\
+\
+        OPHELIA\
+How can you be so dishonest?\
+\
+        HORATIO\
+One time I tried to be honest, but \
+then I said to myself, "Horatio, to \
+thine own self be true."  So if \
+mine own self is a crook, that's \
+what I gotta do.  Good-bye!\
+\
+\
+Horatio walks out with his twenty-kroner piece.  \
+Ophelia glares at him.  Laertes and Polonius are \
+still trying to puzzle out what happened to their \
+money.  Exeunt Ophelia, Laertes and Polonius.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene IV\
+\
+\
+Scene IV takes place back on the platform in front \
+of Elsinore Castle, where Scene I took place.  \
+Enter Hamlet, Horatio, Bernardo and Francisco.\
+\
+\
+        HAMLET\
+The air bites shrewdly; it is very \
+cold.  Say, are you fellows sure \
+this is where dear old Dad is going \
+to show up?\
+\
+        BERNARDO\
+The ghost has appeared at this very \
+spot three nights past, my lord, \
+then vanished before the sun came \
+up.\
+\
+\
+We hear the distant pounding of a kettledrum, and \
+a flourish of trumpets.\
+\
+\
+        FRANCISCO\
+What does this mean, my lord?\
+\
+        HAMLET\
+That's the King.  He has the \
+musicians play while he drinks.  He \
+doesn't like to drink alone, so he \
+has them play eight to the bar.  \
+You see, the King likes to take a \
+drink before he goes to bed at \
+night.  Then he likes to take a \
+drink when he's in bed, especially \
+if the Queen is still awake.  Then \
+the Queen throws him out of bed, so \
+he has to take another drink.  Then \
+he's ready to throw the Queen out \
+of bed, which calls for another \
+drink.  Every time he takes a \
+drink, he has the musicians bang \
+the kettledrum.  As soon as the \
+King is as tight as the drum, he \
+knows it's time to fall asleep. \
+\
+        HORATIO\
+Hey, that sounds like a pretty good \
+job.  You think I could be a king?\
+\
+        HAMLET\
+Well, would you be willing to marry \
+your brother's wife?  Do you think \
+you could do that?\
+\
+\
+Horatio thinks this over.\
+\
+\
+        HORATIO\
+I don't know.\
+\
+        HAMLET\
+Well, come on.  Do you want to be \
+king, or don't you?\
+\
+        HORATIO\
+If I marry the wife, do I get his \
+mistress too?\
+\
+        HAMLET\
+That's not strictly required.  It's \
+not really part of the job.  But \
+I'm sure we could work something \
+out.\
+\
+        HORATIO\
+Is she pretty?\
+\
+        HAMLET\
+The wife or the mistress?\
+\
+        HORATIO\
+Yes!\
+\
+        HAMLET\
+You'll have to take that up with \
+your brother.\
+\
+        HORATIO\
+Hey, I just remembered!  I haven't \
+got a brother!\
+\
+        HAMLET\
+Then you'll have to take that up \
+with your parents.  You do have \
+parents, don't you?  Otherwise, \
+you'll just have to take it up with \
+your grandparents.\
+\
+        HORATIO\
+I've got a great idea!  Why don't I \
+just take your wife?\
+\
+        HAMLET\
+My wife?  I'm not even married!\
+\
+        HORATIO\
+That's all right.  I can wait.\
+\
+        BERNARDO\
+Look my lord, it comes!\
+\
+\
+The Ghost enters, and is overjoyed to see Hamlet.  \
+The Ghost claps his hands and runs to embrace his \
+son.\
+\
+\
+        HAMLET\
+Dad!\
+\
+\
+As the Ghost embraces Hamlet, the Ghost sticks his \
+hands into the pockets of Hamlet's coat, pulls out \
+an apple, and starts to eat it.\
+\
+\
+        HAMLET\
+Gee, it's nice to see you, Dad.\
+\
+\
+The Ghost nods happily, enjoying the apple.  Then \
+the Ghost beckons Hamlet to follow him.  \
+\
+\
+        HAMLET\
+I think you boys better go.  I \
+think he wants to be alone with his \
+son.\
+\
+        HORATIO\
+All right.\
+\
+\
+Exeunt Horatio, Bernardo and Francisco.  Again, \
+the Ghost beckons Hamlet to follow him.\
+\
+\
+        HAMLET\
+OK, I'll follow you.\
+\
+\
+Exeunt the Ghost and Hamlet.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene V\
+\
+\
+Scene V takes place on another part of the \
+platform.  Enter the Ghost and Hamlet.\
+\
+\
+        HAMLET\
+Where wilt thou lead me?  I'll go \
+no further.\
+\
+\
+The Ghost shrugs, and stops.\
+\
+\
+        HAMLET\
+So, Dad, what's new?\
+\
+\
+The Ghost points to the apple core, grins, and \
+gestures that he'd like something else to eat.\
+\
+\
+        HAMLET\
+I'm sorry, I don't have any more \
+apples.\
+\
+\
+The Ghost makes a horrible disgusted face and \
+turns away from Hamlet.\
+\
+\
+        HAMLET\
+Gee, if I'd only known, I...\
+\
+\
+The Ghost makes a disparaging wave of his arms at \
+Hamlet, and makes another horrible face.\
+\
+\
+        HAMLET\
+Dad, isn't there something you \
+wanted to tell me?\
+\
+\
+The Ghost suddenly remembers! He claps his hands \
+and sits Hamlet down, and indicates that Hamlet \
+should watch him.\
+\
+\
+        HAMLET\
+Oh.  OK.  You're going to tell me a \
+story.\
+\
+\
+The Ghost nods his head happily.  Then he reaches \
+into his coat and pulls out a little pillow.  He \
+puts the pillow down on the floor and mimes going \
+to sleep with his head on the pillow.  Hamlet \
+waits for a minute, watching the Ghost sleep.\
+\
+\
+        HAMLET\
+Say, I thought Ghost stories were \
+supposed to keep you awake.\
+\
+\
+The Ghost puts his fingers to his lips to indicate \
+that Hamlet should be quiet, while he's sleeping.\
+\
+\
+        HAMLET\
+OK, you're sleeping.  Where are you \
+sleeping?\
+\
+\
+The Ghost, still pretending to be asleep, holds up \
+his hand, with the back of his hand facing the \
+audience.  Then he pushes up the apple core to the \
+top of his fingers, and mimes plucking an apple.\
+\
+\
+        HAMLET\
+Oh, you're asleep in the apple \
+orchard.  I remember, you liked to \
+sleep there!\
+\
+\
+The Ghost nods "yes."\
+\
+\
+        HAMLET\
+What happens next?\
+\
+\
+The Ghost stands up, takes the pillow and puts it \
+under his shirt.  He pretends to be fat.  Then he \
+pulls at an imaginary beard.\
+\
+\
+        HAMLET\
+A fat man...  a fat man with a \
+beard...\
+\
+\
+The Ghost makes an ugly face and mimes yelling and \
+being angry.\
+\
+\
+        HAMLET\
+A fat, nasty man with a beard!  \
+Your brother Claudius!\
+\
+\
+The Ghost nods "yes."  Then he goes back to \
+putting on the nasty, evil face of Claudius.  He \
+stomps around the stage, pulling on his beard.\
+\
+\
+        HAMLET\
+What does he do?\
+\
+\
+The Ghost, pretending to be Claudius, notices the \
+apple core lying on the stage.  He picks it up, \
+sees that it's been eaten, and brutishly throws it \
+away.  He looks around the stage, and then looks \
+in surprise at the spot where the Ghost was \
+sleeping. The Ghost whips out the pillow, and \
+resumes sleeping at that spot.\
+\
+\
+        HAMLET\
+OK, Claudius found you sleeping.  \
+What happened next?\
+\
+\
+The Ghost jumps up, puts the pillow back in under \
+his shirt, and pretends to be Claudius.  He \
+reaches into his coat, and pulls out a bottle of \
+poison.  Then he reaches into his coat with his \
+other hand and pulls out a funnel.  He walks over \
+to where the Ghost has been sleeping, and mimes \
+putting the funnel into the sleeping man's ear, \
+and he pours the contents of the bottle into the \
+funnel.  Then the Ghost whips out the pillow and \
+becomes himself sleeping, with the funnel in his \
+ear, and the poison being poured into it.  The \
+Ghost wakes up and dies horribly.  \
+\
+\
+        HAMLET\
+Oh no!  Murder!  Foul and unnatural \
+murder!  Claudius poured poison \
+into your ear and killed you!!!  Oh \
+murder most foul!!!\
+\
+\
+The Ghost sits up and nods his head in agreement.\
+\
+\
+        HAMLET\
+Oh horrible!  Oh, horrible, most \
+horrible!  ...  Well, what do you \
+want me to do about it?\
+\
+\
+The Ghost mimes hitting, kicking, choking, and \
+jumping up and down on someone.\
+\
+\
+        HAMLET\
+You want me to take revenge on \
+Claudius?\
+\
+\
+The Ghost nods "yes."\
+\
+\
+        HAMLET\
+Well, that sounds fair enough.  \
+What about Mom?\
+\
+\
+The Ghost shakes his head "no."  He reaches into \
+his coat and takes out a poster-sized picture of \
+the Queen.  He kisses the picture and looks coy.\
+\
+\
+        HAMLET\
+Not Mom.  You still love Mom.  Aww, \
+that's sweet.  It's crazy, but it's \
+sweet.  Maybe you should have your \
+head examined, or at least your \
+eyes.\
+\
+\
+The Ghost clutches the picture of the Queen to his \
+chest, and looks threateningly at Hamlet.\
+\
+\
+        HAMLET\
+OK!  Don't worry.  I won't hurt \
+Mom.  Just Claudius.\
+\
+\
+The Ghost shakes Hamlet's hand and pats him on the \
+back.  Then the Ghost proceeds to put the picture, \
+the pillow, the bottle and the funnel back into \
+his coat.\
+\
+\
+        HAMLET\
+You have to go so soon?\
+\
+\
+The Ghost points to the horizon.\
+\
+\
+        HAMLET\
+Oh, I see.  The sun's coming up.  \
+OK, Dad. It was nice seeing you \
+again.  I'll get your revenge for \
+you.  You can count on me.\
+\
+\
+The Ghost waves good-bye and exits.\
+\
+\
+        HAMLET\
+Hmmmm.  Now what am I going to do?  \
+I can't just go downstairs and kill \
+Claudius.  This is only Act I, and \
+we've still got a whole play to \
+fill up.  I know!  I'll pretend \
+I've gone crazy.  That won't help \
+me get revenge, but it should take \
+up a few hours, and it may liven \
+things up around here.\
+\
+\
+Enter Horatio, Bernardo, and Francisco.\
+\
+\
+        BERNARDO\
+Lord Hamlet!\
+\
+        FRANCISCO\
+What news, my lord?\
+\
+        HAMLET\
+Listen, boys, I don't want any of \
+you to ever say a word about seeing \
+that ghost, all right?\
+\
+\
+Off stage, the Ghost honks his horn.\
+\
+\
+        HAMLET\
+Swear!\
+\
+        BERNARDO\
+Propose the oath, my lord, and we \
+will swear it.\
+\
+        HAMLET\
+Never to speak of what you have \
+seen this night.\
+\
+        FRANCISCO\
+But we haven't seen anything!  \
+\
+        HAMLET\
+Then never to speak of what you \
+haven't seen!\
+\
+        HORATIO\
+I'm not sure I can remember \
+everything I haven't seen.\
+\
+\
+Off stage, the Ghost honks his horn.\
+\
+\
+        HAMLET\
+Swear!  Swear that you'll remember \
+to forget everything you haven't \
+seen.\
+\
+        HORATIO\
+I don't know.  I've got a pretty \
+good memory.  \
+\
+\
+Hamlet gives each of then a gold kroner piece.\
+\
+\
+        HAMLET\
+Look, I'm going to lend each of you \
+ten kroner.  Will you remember to \
+pay back this loan?\
+\
+        HORATIO\
+What loan?\
+\
+        FRANCISCO\
+We have forgotten everything, my \
+lord!\
+\
+\
+Off stage, the Ghost honks his horn.\
+\
+\
+        HAMLET\
+Swear!  Swear by my sword.\
+\
+\
+Hamlet isn't wearing a sword in this scene.  After \
+this scene, he does wear a sword.\
+\
+\
+        HORATIO\
+You forgot to bring your sword!\
+\
+        HAMLET\
+Then cross your hearts and hope to \
+die!  \
+\
+\
+Off stage, the Ghost honks his horn.\
+\
+\
+        HAMLET\
+Swear!\
+\
+        HORATIO, BERNARDO, & \
+        FRANCISCO\
+We swear!\
+\
+        HAMLET\
+So, gentlemen, let us go in \
+together; and still your fingers on \
+your lips, I pray.  The time is out \
+of joint.  Oh cursed spite, that \
+ever I was born to set it right!\
+\
+\
+Exeunt.\
+\
+\
+\
+**************************************************\
+\
+\
+ACT II\
+\
+Scene I\
+\
+\
+Scene I of Act II takes place at Polonius's house.  \
+It's one month later.  Polonius enters.  A moment \
+later, Ophelia runs in.\
+\
+\
+        POLONIUS\
+How now, Ophelia?  What's the \
+matter?\
+\
+        OPHELIA\
+Oh my lord, my lord, I have been so \
+affrighted!\
+\
+        POLONIUS\
+With what?\
+\
+        OPHELIA\
+Have you noticed anything peculiar \
+about Prince Hamlet recently?\
+\
+        POLONIUS\
+Hamlet?  He's always been peculiar, \
+... but now that you mention it, he \
+has been acting very strangely of \
+late.  Why do you ask?\
+\
+        OPHELIA\
+He came to my room just now.  He \
+took me by the wrist and held me \
+hard, then he fell to such perusal \
+of my face as if he would draw it, \
+and then he raised a sigh so \
+piteous and profound, ...  I think \
+he loves me.\
+\
+        POLONIUS\
+This sounds like the very ecstasy \
+of love!  Have you given him any \
+hard words of late?\
+\
+        OPHELIA\
+I've been refusing to see him, as \
+you told me I must.  You ordered me \
+to stay away from him because he \
+would never be permitted to marry \
+someone of my lowly station.\
+\
+        POLONIUS\
+I was wrong!  He truly loves you, \
+and your rejection has driven him \
+mad!  In the morning we must go to \
+the King.\
+\
+\
+Polonius exits.  Ophelia watches him go off.\
+\
+\
+        OPHELIA\
+My poor foolish father.  How easy \
+it is to lead you from the truth.  \
+If the King as readily believes \
+these lies of Hamlet's love, then \
+soon shall I shall be Queen of \
+Denmark!  \
+\
+\
+Ophelia exits after Polonius.   Enter Horatio with \
+the Ghost of Hamlet's father.  They have been \
+listening to the preceding scene.\
+\
+\
+        HORATIO\
+Hey Ghost, did you hear that?  It's \
+a good thing we decided to spy.  \
+That lady's gonna make trouble for \
+Hamlet.  I got to remember to warn \
+him!\
+\
+\
+The Ghost nods in agreement.  Exeunt Horatio and \
+the Ghost.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene II\
+\
+\
+Scene II takes place in a room in the Castle.  \
+This room has an arras (a tapestry wall hanging.)  \
+Enter the King and Queen, followed by ROSENCRANTZ \
+and GUILDENSTERN.  Rosencrantz is a portly fellow \
+with a tiny mustache, who affects very polished \
+manners.  Guildenstern is thin and speaks with an \
+English accent. \
+\
+\
+        KING\
+Welcome, dear Rosencrantz and \
+Guildenstern. Moreover, that we \
+much did long to see you, the need \
+we have to use you did provoke our \
+hasty sending.\
+\
+        ROSENCRANTZ\
+Your Majesties!\
+\
+\
+Rosencrantz makes a very deep bow.  Guildenstern \
+taps Rosencrantz on the shoulder and points to \
+Claudius.\
+\
+\
+        GUILDENSTERN\
+Who's he?\
+\
+        ROSENCRANTZ\
+That's the King!\
+\
+        GUILDENSTERN\
+I thought you said the King was \
+dead.\
+\
+        ROSENCRANTZ\
+The old King is dead.  This is the \
+new King!\
+\
+\
+Guildenstern looks at the King very carefully.\
+\
+\
+        GUILDENSTERN\
+He doesn't look very new to me.\
+\
+\
+Rosencrantz speaks to the King.\
+\
+\
+        ROSENCRANTZ\
+Please forgive my friend, your \
+Majesty.  We've had a very long \
+trip, and he's tired.\
+\
+        GUILDENSTERN\
+No I'm not.  We had a nap after \
+lunch...\
+\
+\
+Rosencrantz glares at Guildenstern, silencing him.\
+\
+\
+        KING\
+I trust that you have heard \
+something of Prince Hamlet's \
+transformation.  I don't know what \
+may have caused this sudden change \
+in him.  You are two of his oldest \
+and dearest friends.  Perhaps you \
+can tell us what is the matter.\
+\
+        QUEEN\
+Good gentlemen, Hamlet has often \
+talked of you.  I'm sure there \
+aren't two men living of whom he is \
+more fond.  Please stay with us \
+awhile, and we will see that you \
+are well rewarded.\
+\
+        ROSENCRANTZ\
+It will be our pleasure to obey \
+your every command, your Majesties.\
+\
+        GUILDENSTERN\
+That's right!  After all, you are \
+the King, even if you're not dead \
+yet, so if there's anything we can \
+do to make your job any easier, \
+just call on us.\
+\
+        ROSENCRANTZ\
+He means we're ready to do whatever \
+you tell us.  The most difficult \
+task won't be too difficult for us \
+to attempt!  Isn't that right, \
+Guildenstern?\
+\
+        GUILDENSTERN\
+Yes, and the simplest task won't be \
+simple enough for us to do either.  \
+What is it you want us to do, \
+anyway?\
+\
+        KING\
+Tell us what is wrong with Prince \
+Hamlet!\
+\
+\
+Rosencrantz and Guildenstern confer privately in \
+whispers, then Guildenstern speaks.\
+\
+\
+        GUILDENSTERN\
+We heard he's gone screwy.\
+\
+        KING\
+We know that!  Find out why he's \
+gone screwy!!!\
+\
+        ROSENCRANTZ\
+We'll do our best, your Majesty.\
+\
+        QUEEN\
+Go, and find Prince Hamlet!\
+\
+\
+Exeunt Rosencrantz and Guildenstern.  Enter \
+Polonius.\
+\
+\
+        POLONIUS\
+My good lord, the ambassador from \
+Norway has returned!\
+\
+        KING\
+I trust he brings good news.\
+\
+        POLONIUS\
+That reminds me, I think I have \
+discovered the cause of Hamlet's \
+lunacy.\
+\
+        KING\
+Oh?  That is something I long to \
+hear!\
+\
+        POLONIUS\
+First listen to the ambassador.  My \
+news shall be the fruit to that \
+great feast.\
+\
+        KING\
+Go then, and bring in the \
+ambassador.\
+\
+\
+Polonius exits.  The King turns to the Queen.\
+\
+\
+        KING\
+Did you hear that?  Polonius thinks \
+he has discovered the source of \
+your son's strange behavior.\
+\
+        QUEEN\
+I don't think it is anything but \
+his father's death, and our own \
+hasty marriage, but we shall see.\
+\
+\
+Re-enter Polonius with VOLTIMAND, the ambassador \
+from Norway.\
+\
+\
+        KING\
+Well, what news from the King of \
+Norway?\
+\
+        VOLTIMAND\
+The King was very surprised by your \
+letter.  He thought young \
+Fortinbras was preparing to invade \
+Poland, but when he found out that \
+Fortinbras meant to attack Denmark, \
+he rebuked him most severely.  \
+Young Fortinbras then promised the \
+King he would never invade Denmark, \
+but asked if he might invade Poland \
+instead.  He would like your \
+permission to bring his army \
+through Denmark, on his way to \
+attack the Poles.\
+\
+        KING\
+Well, that sounds like a reasonable \
+request.  Go back to Norway, and \
+give young Fortinbras my permission \
+to bring his army through Denmark.\
+\
+\
+Exit Voltimand.  The King turns to Polonius.\
+\
+\
+        KING\
+Now, Polonius, tell us your news!\
+\
+        POLONIUS\
+I have a daughter.  She has told me \
+that Hamlet has been sending her \
+love letters.  I said to her, "Lord \
+Hamlet is a prince, and above thy \
+station!  Avoid him!"  She has \
+avoided him, and since that time, \
+he has gone mad!\
+\
+        KING\
+Could this be true?\
+\
+        QUEEN\
+It may be.\
+\
+        POLONIUS\
+My daughter has given me an idea.  \
+Prince Hamlet often walks alone \
+here in this part of the castle.  \
+Tomorrow my daughter will wait to \
+meet him here.  We shall hide \
+behind this arras, and see what \
+happens then.\
+\
+        KING\
+We will try it.\
+\
+\
+Enter Hamlet, reading a book.\
+\
+\
+        QUEEN\
+Look, how sadly the poor wretch \
+comes reading.\
+\
+        POLONIUS\
+Leave me to talk with him alone.\
+\
+\
+Exeunt the King and Queen.\
+\
+\
+        POLONIUS\
+How does my lord Hamlet?\
+\
+        HAMLET\
+Booga-booga-booga!\
+\
+        POLONIUS\
+Do you know me, my lord?\
+\
+        HAMLET\
+Let's see, ...  Aren't you Abie the \
+Fishman?\
+\
+        POLONIUS\
+Not I, my lord.\
+\
+        HAMLET\
+No, I guess that was another play.  \
+It's too bad.  There were a lot \
+more laughs in that show.  So, who \
+are you, anyway?  No, wait!  Let me \
+guess!  Have you got a daughter?\
+\
+        POLONIUS\
+I have, my lord.\
+\
+        HAMLET\
+Tell me, ... does your daughter \
+fool around?\
+\
+        POLONIUS\
+Never!\
+\
+        HAMLET\
+Good, because you know what fooling \
+around can lead to, don't you?  \
+Grandchildren!  And grandchildren \
+can lead to great-grandchildren!  \
+You know, there'd be a lot less \
+fooling around here in Denmark if \
+you old people would just stop \
+having grandchildren!  And at your \
+age too!!!  You should be ashamed \
+of yourself!\
+\
+        POLONIUS\
+My daughter is a modest, virtuous \
+maiden.  She will make some man a \
+fine wife.\
+\
+        HAMLET\
+Good, have her make one for me.  In \
+fact, I'll take half a dozen.  No, \
+make it a dozen.  Christmas is \
+coming up, and I need some gifts \
+for my friends.\
+\
+        POLONIUS\
+What do you read, my lord?\
+\
+        HAMLET\
+Words, words, words.  I can never \
+remember this scene, so I keep a \
+copy of the script in here.\
+\
+        POLONIUS\
+Though this be madness, yet there \
+is method in it.\
+\
+\
+Enter Rosencrantz and Guildenstern.\
+\
+\
+        POLONIUS\
+Fare you well, my lord.\
+\
+\
+Polonius goes over to speak to Rosencrantz and \
+Guildenstern.\
+\
+\
+        POLONIUS\
+You go to seek Prince Hamlet.  \
+There he is.\
+\
+        ROSENCRANTZ\
+(to Polonius)\
+God save you, sir!\
+\
+\
+Exit Polonius.\
+\
+\
+        ROSENCRANTZ\
+My most dear lord!\
+\
+        HAMLET\
+Eh?\
+\
+        ROSENCRANTZ\
+Don't you remember us?  I am \
+Rosencrantz, and this is my good \
+friend, Guildenstern!\
+\
+        HAMLET\
+My most excellent good friends!  \
+How do you both?\
+\
+        ROSENCRANTZ\
+Not badly.  Not badly at all!\
+\
+        HAMLET\
+Oh, really?\
+\
+        GUILDENSTERN\
+Yes, we get a big reward if we can \
+find out why you're screwy.\
+\
+\
+Rosencrantz takes Guildenstern aside.\
+\
+\
+        ROSENCRANTZ\
+You weren't supposed to tell him \
+that!  That was supposed to be a \
+secret!\
+\
+        GUILDENSTERN\
+But he's our friend.  If we can't \
+trust him, who can we trust?\
+\
+        ROSENCRANTZ\
+We can't trust anyone!  Now \
+whatever you do, don't tell him the \
+King and Queen sent for us.\
+\
+        GUILDENSTERN\
+You can count on me!\
+\
+\
+Rosencrantz and Guildenstern go back over to \
+Hamlet.\
+\
+\
+        HAMLET\
+Tell me, why did you two come to \
+Elsinore?\
+\
+        ROSENCRANTZ\
+Why, to visit you, my lord.  No \
+other reason.\
+\
+        HAMLET\
+You weren't sent for?\
+\
+        GUILDENSTERN\
+Yes, we weren't.\
+\
+        HAMLET\
+I'm glad to hear it.  Who didn't \
+send for you?\
+\
+        GUILDENSTERN\
+The King and Queen.\
+\
+        HAMLET\
+That's funny, because I've been \
+dying to tell someone why I've been \
+acting so crazy, but I wouldn't \
+want to tell anyone who wasn't sent \
+for by the King and Queen.\
+\
+\
+Rosencrantz takes Guildenstern aside.\
+\
+\
+        ROSENCRANTZ\
+What do we say now?\
+\
+        GUILDENSTERN\
+Let's tell him we were sent for.\
+\
+        ROSENCRANTZ\
+That's a good idea.\
+\
+\
+They go back over to Hamlet.\
+\
+\
+        GUILDENSTERN\
+My lord, we were sent for.\
+\
+        ROSENCRANTZ\
+Now tell us what's the matter with \
+you.\
+\
+        HAMLET\
+I have of late, but wherefore I \
+know not, lost all my mirth.  Well, \
+maybe not all my mirth, but I \
+certainly haven't been having a \
+very good time lately, especially \
+since you boys showed up!\
+\
+        ROSENCRANTZ\
+I understand perfectly!  You're \
+depressed!\
+\
+        GUILDENSTERN\
+Does that mean we can collect the \
+reward now?\
+\
+        ROSENCRANTZ\
+Certainly not!  Hamlet's our \
+friend!  What kind of friends would \
+we be if we didn't do something to \
+cheer him up?\
+\
+        GUILDENSTERN\
+Well, if we got the reward, we \
+could go out and buy him a vanilla \
+ice cream cone.  That always cheers \
+me up when I'm decompressed.\
+\
+        ROSENCRANTZ\
+Hamlet's problems are \
+psychological!  He needs to talk \
+about them, and get them out into \
+the open.\
+\
+\
+Rosencrantz turns back to Hamlet.\
+\
+\
+        ROSENCRANTZ\
+Why don't you tell us more about \
+how you feel?\
+\
+        HAMLET\
+Very well.  I didn't want to tell \
+you, but you forced it out of me.  \
+Oh, I'm so ashamed.  I just found \
+out ...  I just found out my two \
+best friends are a couple of \
+morons.\
+\
+        ROSENCRANTZ\
+No wonder you're depressed!  I'd be \
+depressed too if I found out my \
+best friends were morons.  Wouldn't \
+you, Guildenstern?  \
+\
+        GUILDENSTERN\
+I certainly would, Rosencrantz, but \
+I'd still be your friend anyway, in \
+spite of it!\
+\
+\
+Rosencrantz suddenly suspects that Hamlet has \
+insulted them.\
+\
+\
+        ROSENCRANTZ\
+Wait just a minute!  I thought we \
+were your best friends.\
+\
+        HAMLET\
+I hate to break it to you boys, but \
+I don't think either one of you \
+could pass the aptitude test to \
+become court fools.\
+\
+        GUILDENSTERN\
+We could too!\
+\
+        ROSENCRANTZ\
+Come, Guildenstern.  We don't have \
+to stay here to be insulted.\
+\
+        HAMLET\
+No, you probably don't.  But wait!  \
+Don't go!  I'm sorry.  It's just \
+that I've been so insane lately.  \
+What a piece of work is a man!  How \
+noble in reason. How infinite in \
+faculties!  In form and moving how \
+express and admirable!  In action \
+how like an angel! In apprehension \
+how like a god!  There, if that \
+doesn't convince you I'm crazy, \
+nothing will!  Take a look around \
+this castle if you want to see what \
+a piece of work is a man!  God's \
+just lucky he didn't give out \
+warranties!  Oh, I'm so depressed.\
+\
+        ROSENCRANTZ\
+We have some news that may cheer \
+you up, my lord.  On our way into \
+Elsinore, we passed a gentleman who \
+said he was going to bring back \
+some players to perform for you \
+tomorrow night!\
+\
+        HAMLET\
+That's funny.  I was just saying to \
+Horatio how much I'd like to see a \
+really good play.  \
+\
+\
+Hamlet addresses the audience directly on the next \
+line.\
+\
+\
+        HAMLET\
+(to audience)\
+And I bet you folks feel the same \
+way.\
+\
+\
+Enter Horatio.\
+\
+\
+        HORATIO\
+Hey, Hamlet, have I got a deal for \
+you!!!\
+\
+        HAMLET\
+Why is it that suddenly suicide \
+seems like a good idea?\
+\
+        HORATIO\
+You say you want to see a play, so \
+I go out and I find the finest \
+players in the land, just for you!  \
+\
+        HAMLET\
+Really?  When can I see them?\
+\
+        HORATIO\
+Not so fast.  First you got to talk \
+to their manager.\
+\
+        HAMLET\
+Who's their manager, as if I \
+couldn't guess?\
+\
+        HORATIO\
+It's funny you should ask.  When I \
+found these players, they're the \
+finest players in the land, but \
+guess what?  They haven't got a \
+manager!  So what can I do?  My \
+friend Prince Hamlet wants to see a \
+play, but how's he going to hire \
+these players without a manager?  \
+Then I get a wonderful idea!!!  \
+I'll be their manager!\
+\
+        GUILDENSTERN\
+Gee, isn't he a swell guy?\
+\
+        ROSENCRANTZ\
+He certainly is!\
+\
+        HAMLET\
+How much are you going to charge me \
+to see these players?\
+\
+        HORATIO\
+Twenty kroner.\
+\
+        HAMLET\
+Twenty kroner?  That's not bad.\
+\
+        HORATIO\
+That's just to see them.  Now if \
+you want them to put on a play, \
+that's another fifty kroner.\
+\
+        HAMLET\
+What kind of play will they put on \
+for this ... total of seventy \
+kroner?\
+\
+        HORATIO\
+Well, there's two kinds of plays.  \
+There's good plays and bad plays.  \
+If you want a good play, it's an \
+extra fifty kroner.  \
+\
+        HAMLET\
+Well then, have them put on a bad \
+play.\
+\
+        HORATIO\
+I'm sorry, they don't do bad plays.  \
+They've go a reputation to hold up.\
+\
+        HAMLET\
+A hundred and twenty kroner sounds \
+right for a hold-up.  Is that the \
+entire cost?\
+\
+        HORATIO\
+Sure, that's the whole price.  One \
+hundred and twenty kroner for a \
+real good play.  Oh, I almost \
+forgot to ask, you don't want them \
+to learn their lines, do you?\
+\
+        HAMLET\
+No, I wouldn't think of it.\
+\
+        HORATIO\
+Cause if you did, that would be \
+another thirty kroner.\
+\
+        HAMLET\
+Just have them read the lines.\
+\
+\
+Horatio gives Hamlet a look, indicating Hamlet is \
+being silly.\
+\
+\
+        HAMLET\
+On second thought, why be stingy?  \
+Let them learn their lines!  We've \
+got a deal then!  One hundred and \
+fifty kroner.\
+\
+\
+Hamlet pays the money to Horatio.  Enter Polonius.\
+\
+\
+        POLONIUS\
+My lord, there are some men at the \
+castle gate, who claim to be \
+players ... .\
+\
+        HAMLET\
+Then let them in!  Let them in!\
+\
+\
+Polonius goes to get the players.\
+\
+\
+        HAMLET\
+I'm really looking forward to this.  \
+It's about time we had some good \
+sophisticated adult drama around \
+here.\
+\
+\
+Polonius comes back in with the three players:  \
+the FIRST PLAYER is a grumpy, bossy man with a \
+Prince Valiant-type haircut, the SECOND PLAYER has \
+very frizzy hair, and the THIRD PLAYER is a fat, \
+bald idiot.\
+\
+\
+        HAMLET\
+So these are the finest players in \
+the land?\
+\
+        HORATIO\
+They must be.  No one else can get \
+these prices!\
+\
+        HAMLET\
+Well, let's see what they can do.  \
+Give me a sample.  I want to hear \
+something old and classical.\
+\
+\
+Hamlet turns to the First Player.\
+\
+\
+        HAMLET\
+Do you know "The Death of Priam"?\
+\
+        FIRST PLAYER\
+I didn't even know he was sick!\
+\
+        HAMLET\
+Well, that's old, but it isn't \
+classical.  That's one of the \
+oldest jokes I've ever heard.  How \
+is it that you don't know the \
+famous speech about the death of \
+King Priam?  All great actors know \
+that speech!  Your manager here \
+said that you were the finest \
+players in the land!\
+\
+        THIRD PLAYER\
+We are!  We get fined in every town \
+we play in!\
+\
+\
+The Third Player laughs.  The First Player hits \
+the Third Player on top of his head, and the Third \
+Player squeals.\
+\
+\
+        SECOND PLAYER\
+Listen, we're very good at what we \
+do!\
+\
+        HAMLET\
+And what is it you do?\
+\
+        SECOND PLAYER\
+Mostly we call each other names, \
+make funny noises, hit each other, \
+and poke each other in the eye.\
+\
+        HAMLET\
+Is there much of an audience for \
+that?\
+\
+        THIRD PLAYER\
+Certainly!!!\
+\
+        POLONIUS\
+I have heard of these players, my \
+lord.  They are very successful.\
+\
+        HAMLET\
+I repeat:  What a piece of work is \
+a man!  How noble in reason!\
+\
+        FIRST PLAYER\
+You still want a sample?  Watch \
+what we can do!\
+\
+        HAMLET\
+Are you going to hit the fat guy \
+again?\
+\
+        FIRST PLAYER\
+Sure, if that's what you want.\
+\
+        HAMLET\
+Only if you keep it up until you \
+kill him.  Actually, I was hoping \
+for something a little more \
+refined.\
+\
+        THIRD PLAYER\
+We're very refined.  Whenever we go \
+into a town, right after we get \
+fined once, we usually get refined.\
+\
+\
+The Third Player laughs.  The First Player hits \
+him on the head, and he squeals.\
+\
+\
+        HAMLET\
+This could quickly become \
+monotonous.\
+\
+\
+The First Player hits the Second Player on the \
+head.\
+\
+\
+        SECOND PLAYER\
+Ow!!!  What did you hit me for?\
+\
+        FIRST PLAYER\
+Variety!\
+\
+        HAMLET\
+Couldn't you do something poetic, \
+with lots of conflict, a tragedy \
+about man's inhumanity to man?\
+\
+        HORATIO\
+Why didn't you say that's what you \
+wanted?  These guys specialize in \
+that!\
+\
+        PLAYERS\
+We do?\
+\
+        HORATIO\
+Sure!  Do the show I taught you \
+this afternoon.  You remember, the \
+one with poetry and conflict.\
+\
+        HAMLET\
+What's this show called?\
+\
+        HORATIO\
+"Simple Simon," by Mother Goose.\
+\
+        ROSENCRANTZ\
+Say, I think I know that one.\
+\
+        FIRST PLAYER\
+Watch this!\
+\
+\
+The First Player and the Third Player run off \
+opposite sides of the stage.  The Second Player \
+steps to center stage and clears his throat.\
+\
+\
+        SECOND PLAYER\
+This afternoon, we bring you a \
+classic tale of hunger and greed, \
+that famous poem known the world \
+over ... "Simple Simon."\
+\
+\
+There is a long pause.\
+\
+\
+        HAMLET\
+Well?\
+\
+        SECOND PLAYER\
+I forgot how it starts.\
+\
+\
+The First Player runs on.  He wears a chef's hat \
+and apron.  He hits the Second Player on top of \
+the head.\
+\
+\
+        FIRST PLAYER\
+"Simple Simon met a pie-man..."\
+\
+\
+The First Player runs back off-stage.\
+\
+\
+        SECOND PLAYER\
+Oh yes!  (Ahem.)\
+Simple Simon\
+Met a pie-man\
+Going to the faire!\
+\
+\
+The First Player, dressed as a pie-man, and \
+carrying a big cream pie, enters from one side of \
+the stage.  The Third Player, singing stupidly, \
+enters from the other side.\
+\
+\
+        THIRD PLAYER\
+La-la-lee-la-la!\
+\
+        SECOND PLAYER\
+Said Simple Simon,\
+To the pie-man,\
+\
+        THIRD PLAYER\
+Let me taste your ware!\
+\
+        SECOND PLAYER\
+Said the pie-man,\
+To Simple Simon,\
+\
+        FIRST PLAYER\
+Show me first your penny!\
+\
+        SECOND PLAYER\
+Said Simple Simon,\
+To the pie-man,\
+\
+        THIRD PLAYER\
+In truth, I haven't any!\
+\
+        FIRST PLAYER\
+Oh, a deadbeat!\
+\
+\
+The First Player hits the Third Player in the face \
+with the pie.\
+\
+\
+        THIRD PLAYER\
+Oh!  Vanilla custard!  My favorite!\
+\
+\
+The Third Player laughs.  The First Player hits \
+the Third Player on top of his head, and the Third \
+Player squeals.  All three Players bow, banging \
+their heads together.  Horatio, Polonius, \
+Rosencrantz and Guildenstern all applaud \
+enthusiastically.  Horatio turns to Hamlet.\
+\
+\
+        HORATIO\
+Pretty good stuff, eh?\
+\
+        HAMLET\
+Boys, I think you've captured the \
+essence of human existence, and now \
+that you've captured it, I hope \
+you'll never let it out again.  No, \
+on second thought, I want you to \
+perform for Claudius tomorrow \
+night.  He deserves to see this.  \
+Polonius, show these men to their \
+rooms.\
+\
+\
+Polonius leads out the Second and Third Players.  \
+Hamlet grabs the First Player by the arm to speak \
+with him privately.\
+\
+\
+        HAMLET\
+Wait a second, I want to talk to \
+you.  Can you play "The Murder of \
+Gonzago"?\
+\
+        FIRST PLAYER\
+Sorry, I never heard of it.\
+\
+        HAMLET\
+All right, can you play "The Queen \
+of Hearts"?  It's by the same \
+author as "Simple Simon."  You \
+remember, "The Queen of Hearts, she \
+made some tarts..."\
+\
+        FIRST PLAYER\
+Yes, my lord, we know that one.\
+\
+        HAMLET\
+I figured you would.  We'll have it \
+tomorrow night.  But I've got a few \
+special changes I want you to put \
+in.  I'll come by and give them to \
+you later.  Now go to your room!\
+\
+\
+The First Player exits.\
+\
+\
+        ROSENCRANTZ\
+That certainly was a fine \
+performance, wasn't it?\
+\
+        GUILDENSTERN\
+I'll say!\
+\
+        ROSENCRANTZ\
+Didn't you think the roles were \
+particularly well cast?\
+\
+        GUILDENSTERN\
+I thought the pie was well cast.  \
+Were there rolls in it too?  I \
+didn't see the rolls.\
+\
+        HAMLET\
+Go to your rooms!!!\
+\
+        ROSENCRANTZ\
+Good-bye, my lord.\
+\
+        GUILDENSTERN\
+So long!\
+\
+\
+Exeunt Rosencrantz and Guildenstern, bowing to \
+Hamlet.\
+\
+        HAMLET\
+Oh, what a rogue and peasant slave \
+am I!  Is it not monstrous that \
+these players here can slap each \
+other around like that, and I can't \
+even lay a finger on Claudius?  \
+They hit each other, hurt each \
+other, and all I can come up with \
+is clever banter!  I'm nothing but \
+a coward, a Noel Coward!  Well, \
+maybe not such an ol' coward, more \
+of a young coward.  And after all, \
+I have no real proof that Claudius \
+killed my father.  All I've got is \
+the word of a ghost who can't even \
+talk!  I know what I'll do.  I'll \
+have these players perform \
+something like the murder of my \
+father.  If Claudius looks guilty, \
+I'll know he did it!  The play's \
+the thing, wherein I'll catch the \
+conscience of the King!\
+\
+\
+Exit Hamlet.\
+\
+\
+\
+**************************************************\
+\
+\
+\
+ACT III\
+\
+Scene I\
+\
+\
+Scene I takes place in a room in the castle.  This \
+is the same room as in Act II, Scene II.  Enter \
+the King, Queen, Polonius, Ophelia, Rosencrantz, \
+and Guildenstern.\
+\
+        KING\
+And can you, by no drift of \
+circumstance, get from him why he \
+puts on this confusion, grating so \
+harshly all his days of quiet with \
+turbulent and dangerous lunacy?\
+\
+\
+Rosencrantz and Guildenstern consult with each \
+other in whispers.\
+\
+\
+        GUILDENSTERN\
+Would you mind rephrasing the \
+question?\
+\
+        KING\
+Have you found out yet why Hamlet's \
+gone screwy?\
+\
+        ROSENCRANTZ\
+We're making progress, your \
+majesty, but he hasn't told us the \
+whole story yet.\
+\
+        QUEEN\
+Well, what has he told you?\
+\
+        GUILDENSTERN\
+He's oppressed because man is a \
+piece of work, who fills out forms \
+with infinite reasons . . and moves \
+like an admiral on an express, and \
+...  and is apprehensive of god, .  \
+.  and his two best friends are a \
+couple of morons!\
+\
+        ROSENCRANTZ\
+But we do have some good news, your \
+majesties!  Some traveling players \
+have arrived at the castle, and \
+your son is going to have them put \
+on a play!\
+\
+        KING\
+Hmmmm, maybe this play will take \
+his mind off of whatever it is that \
+is troubling him so much.  The next \
+time you see Hamlet, do your best \
+to keep him in a good mood!\
+\
+\
+Exit Rosencrantz and Guildenstern.\
+\
+\
+        KING\
+Now Gertrude, I would like you to \
+leave us alone for awhile, while I \
+try to discover what is the matter \
+with your son.  I have sent for \
+him, and Polonius and I will hide \
+and watch while he meets Ophelia.  \
+We should be able to tell from his \
+reactions if it is really love that \
+is causing him to act so strangely.\
+\
+        QUEEN\
+Very well.  Ophelia, I hope you can \
+do something about all this.  I do \
+not understand what has gotten into \
+that boy!\
+\
+\
+Exit Queen.\
+\
+\
+        POLONIUS\
+Ophelia, you stand here and wait \
+for Hamlet.  The King and I shall \
+hide behind this arras.\
+\
+\
+The King and Polonius exit behind the arras.  \
+Enter Hamlet.\
+\
+\
+        HAMLET\
+To be, or not to be; that is the \
+question.  \
+\
+\
+Hamlet starts speaking directly to the audience.\
+\
+\
+        HAMLET\
+If you can answer the question, you \
+win fifty dollars, which you'll \
+have to split among the lot of you.  \
+To be, or not to be?  Does anyone \
+have the answer? \
+\
+\
+Hamlet points to a member of the audience.\
+\
+\
+        HAMLET\
+You?  I'm sorry, anything you have \
+is obviously no good.  Including \
+your date.\
+\
+\
+Hamlet suddenly turns somber.\
+\
+\
+        HAMLET\
+Oh, why don't I just kill myself \
+now, and let you folks go home \
+early?  Better yet, why don't you \
+folks kill yourselves now, and let \
+me go home early?  You can take my \
+word for it, you've seen the best \
+part of the show.  It's all \
+downhill from here.  So what do you \
+say to a little mass suicide?  Just \
+think of it, I wouldn't even have \
+to take a curtain call, and you \
+folks could make theater history.  \
+Well, come on!  What are you \
+waiting for?  You're not afraid of \
+a little death, are you?  Are you?  \
+But then, maybe you should be \
+afraid.  Who knows what would \
+happen to you if you did kill \
+yourselves?  In your next life, you \
+might have to watch this play \
+rewritten for Abbott and Costello!\
+\
+\
+Ophelia, tired of waiting for Hamlet to notice \
+her, calls to him.\
+\
+\
+        OPHELIA\
+Hamlet!\
+\
+        HAMLET\
+What's this?  The fair Ophelia!\
+\
+\
+Suddenly Horatio rushes on stage, grabs Hamlet, \
+and pulls him over to one side of the stage, away \
+from Ophelia.  Horatio speaks privately to Hamlet.\
+\
+\
+        HORATIO\
+Hey, Hamlet, I just remembered.  \
+You gotta watch out for Ophelia.  \
+She wants to marry you so she can \
+be Queen!\
+\
+        HAMLET\
+Oh yeah?  We'll just see about \
+that!\
+\
+\
+Exit Horatio.\
+\
+\
+        OPHELIA\
+Good day, my lord.\
+\
+        HAMLET\
+Says you!\
+\
+        OPHELIA\
+It's been many days since I've seen \
+your honor.\
+\
+        HAMLET\
+Let's keep my honor out of this.  \
+You'd like to see my honor, \
+wouldn't you?  Well, that's too \
+bad, because it's private, see?  My \
+honor's not for sale.  Not at \
+reasonable prices, anyway.  But for \
+an unreasonable price, maybe we \
+could make a deal.  How much honor \
+did you have in mind?\
+\
+        OPHELIA\
+My lord, I have some love letters \
+to return to you.\
+\
+        HAMLET\
+I'm sorry, you'll have to come up \
+with cash on the line, or it's no \
+deal.  Letters!!!\
+\
+        OPHELIA\
+You told me you loved me once, and \
+I did believe you.\
+\
+        HAMLET\
+What?  You expect me to believe \
+that you believed me?  Isn't that \
+just like a woman!  Well, I don't \
+believe you believed me, so there!  \
+Now, do you believe I don't believe \
+that you believed me?  That's a \
+better question than "to be or not \
+to be?".\
+\
+        OPHELIA\
+You deceived me, my lord.  You took \
+advantage of my poor innocence.\
+\
+        HAMLET\
+You've got the poorest innocence \
+I've ever seen!\
+\
+\
+Ophelia starts acting girlish, trying to charm \
+Hamlet.\
+\
+\
+        OPHELIA\
+But... don't you ever want to be a \
+daddy?\
+\
+        HAMLET\
+Why?  You want to get adopted?\
+\
+        OPHELIA\
+Not me, Hammy!  I mean, don't you \
+want to have your own children!\
+\
+        HAMLET\
+Listen, Ophy, I've got enough \
+problems with the relatives I've \
+already got.\
+\
+        OPHELIA\
+But don't you think I'd make a good \
+mother?\
+\
+        HAMLET\
+I think you'd make a mother \
+superior, so why don't you get thee \
+to a nunnery?   \
+\
+        OPHELIA\
+But...\
+\
+        HAMLET\
+Go!\
+\
+\
+Ophelia speaks loudly so that the King and \
+Polonius can hear her.\
+\
+\
+        OPHELIA\
+Oh, what a noble mind is here \
+o'erthrown!\
+\
+\
+She turns to Hamlet and hisses a threat at him.\
+\
+\
+        OPHELIA\
+I'll get you for this!\
+\
+\
+Hamlet shrugs and exits.  Enter the King and \
+Polonius.\
+\
+\
+        KING\
+That did not sound like love to me!  \
+I don't trust that fellow one bit.  \
+I'd feel safer if he were far from \
+Denmark,... say in England.\
+\
+        POLONIUS\
+I still think he has gone mad from \
+love for my daughter.  After the \
+play tomorrow night, why don't we \
+have his mother speak to him \
+privately, and I will hide and \
+listen to what they say.  Then, if \
+you still think he is dangerous, \
+you can send him to England, or \
+confine him where you think best.\
+\
+        KING\
+It shall be so.  Madness in great \
+ones must not unwatched go.\
+\
+\
+Exeunt.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene II\
+\
+\
+Scene II takes place in a hall in the castle.  \
+Enter Hamlet and the Players.\
+\
+\
+        HAMLET\
+Speak the speech, I pray you, as I \
+pronounced it to you!\
+\
+        FIRST PLAYER\
+Don't worry, your princeship, we'll \
+do everything just like you said.\
+\
+        HAMLET\
+And no melodramatic gestures!  \
+Don't saw the air with your hands.\
+\
+        THIRD PLAYER\
+Relax!  I never saw the air with my \
+hands!  I saw the air with my eyes!\
+\
+\
+The Third Player laughs, the First Player pounds \
+him on the head, and the Third Player squeals.\
+\
+\
+        FIRST PLAYER\
+That's not what he means!  He means \
+don't do this!\
+\
+\
+The First Player saws the air upward with his \
+hand, as the other Players watch him, and then he \
+suddenly jerks his hand down, giving the other \
+Players whiplash.\
+\
+\
+        HAMLET\
+What I mean is, don't overact.  Be \
+natural!  Try to behave like normal \
+human beings.\
+\
+        SECOND PLAYER\
+I thought you wanted us to be \
+natural.\
+\
+\
+The First Player pounds the Second Player on the \
+head.\
+\
+\
+        HAMLET\
+Go!  Make ready for the play.\
+\
+\
+Exeunt the Players. Enter Polonius, Rosencrantz \
+and Guildenstern.\
+\
+\
+        HAMLET\
+The play is about to start.  Go get \
+the King and Queen.\
+\
+        ROSENCRANTZ\
+ We will, my lord.\
+\
+\
+Exeunt Rosencrantz and Guildenstern.  Enter \
+Horatio. Hamlet goes to Horatio and speaks to him \
+privately.\
+\
+\
+        HAMLET\
+Horatio!  Watch my uncle during the \
+play.  Let me know if he does \
+anything funny.\
+\
+        HORATIO\
+Don't worry.  No one does anything \
+funny in any play while I'm around!\
+\
+        HAMLET\
+Well, that explains a lot.\
+\
+\
+Enter the King, Queen, Polonius, Ophelia, \
+Rosencrantz and Guildenstern.\
+\
+\
+        HAMLET\
+All right, everyone sit down.  The \
+play's about to start.\
+\
+\
+Everyone except Hamlet sits on the floor.\
+\
+\
+        QUEEN\
+Come hither, my dear Hamlet.  Sit \
+by me.\
+\
+        HAMLET\
+No thanks, Mom.  I want to annoy \
+Ophelia.\
+\
+\
+Hamlet goes over to Ophelia, who treats him very \
+coldly.\
+\
+\
+        HAMLET\
+Lady, shall I lie in your lap?\
+\
+        OPHELIA\
+No, my lord.\
+\
+        HAMLET\
+I mean, my head in your lap.\
+\
+\
+He lies down with his head in her lap.  She \
+remains cold to him.\
+\
+\
+        OPHELIA\
+Aye, my lord.\
+\
+        HAMLET\
+Did you think I meant country \
+matters?\
+\
+        OPHELIA\
+I think nothing, my lord.\
+\
+        HAMLET\
+That's a fair thought to lie \
+between maids' legs.\
+\
+        OPHELIA\
+What is, my lord?\
+\
+        HAMLET\
+Nothing.\
+\
+\
+Hamlet waggishly raises and lowers his eyebrows.  \
+Then he turns to the audience.\
+\
+\
+        HAMLET\
+Shakespeare wrote that one.\
+\
+\
+The Second Player steps out and waits for everyone \
+to quiet down.\
+\
+\
+        HAMLET\
+Quiet everyone!  The play's \
+starting.\
+\
+\
+The Second Player declaims the prologue to the \
+play.\
+\
+        SECOND PLAYER\
+The Queen of Hearts\
+She made some tarts,\
+All on a summer's day;\
+The Knave of Hearts\
+He stole the tarts,\
+And took them clean away.\
+The King of Hearts\
+Called for the tarts,\
+And beat the Knave full sore;\
+The Knave of Hearts\
+Brought back the tarts,\
+And vowed he'd steal no more.\
+\
+\
+The Second Player bows to applause and exits.\
+\
+\
+        HAMLET\
+That was just the prologue.  Now \
+the real play begins!\
+\
+\
+The First Player enters.  He is dressed as the \
+King of Hearts.  He speaks bombastically.\
+\
+\
+        FIRST PLAYER\
+I am the noble King of Hearts!\
+I want my Queen to bake some tarts.\
+The finest pastries in the land\
+Are made by her own dainty hands.\
+Where is the Queen!  I want her \
+here!\
+\
+\
+The Third Player, affecting a high, shrill voice \
+answers from off stage.\
+\
+\
+        THIRD PLAYER\
+(off stage)\
+Hold your horses!  I'm coming, \
+dear!\
+\
+        FIRST PLAYER\
+My own dear wife!  I know that I\
+Will always love her till I die!\
+\
+\
+The Third Player enters in drag, dressed as the \
+Queen of Hearts.  The First Player is horrified by \
+her frightful appearance.\
+\
+\
+        THIRD PLAYER\
+Sorry I'm late.  I'd lost my wig.\
+How do I look?\
+\
+        FIRST PLAYER\
+    Just like a ... fig-\
+Ure of beauty, your teeth like \
+pearls!\
+\
+        THIRD PLAYER\
+Aw, you say that to all the girls.\
+\
+\
+The Third Player gives the First Player a playful \
+shove, nearly knocking him over.\
+\
+\
+        FIRST PLAYER\
+Say you'll be forever true!\
+\
+        THIRD PLAYER\
+Certainly, Kingsie!  Who else do \
+you\
+Think I'd go for?\
+\
+        FIRST PLAYER\
+For a start,\
+My brother, the evil Knave of \
+Hearts!\
+If I catch you two together,\
+Ever again, I don't care whether\
+He has a knife, an ax or spear,\
+I'll kill him first, then you, my \
+dear!\
+\
+        THIRD PLAYER\
+Take it easy!  Please, calm down!\
+I'm not the type who'd play around!\
+\
+        FIRST PLAYER\
+Ever since that time I caught\
+Him with your tarts I've been \
+distraught!\
+\
+        THIRD PLAYER\
+You can trust me.  Wait and see!\
+I'll behave so faithfully,\
+I'll bake my tarts for only you!\
+Cross my heart!  It's true!  It's \
+true!\
+\
+\
+Hamlet turns to his mother, as the First Player \
+and Third Player exit, arm in arm, from the stage.\
+\
+\
+        HAMLET\
+What do you think, Mom?\
+\
+        QUEEN\
+The lady doth protest too much, \
+methinks.\
+\
+\
+Enter the Second Player, dressed as the Knave of \
+Hearts.\
+\
+\
+        SECOND PLAYER\
+I'm the wicked Knave of Hearts!\
+I'd love to grab the fair Queen's \
+tarts,\
+Filled with apples, pears, or \
+plums!\
+Why speak of the devil, here she \
+comes!\
+\
+\
+Enter the Third Player, singing and carrying a \
+table.  On the table are a number of small cream \
+pies, and at least one large cream pie.\
+\
+\
+        THIRD PLAYER\
+La la lee la la.\
+\
+\
+Suddenly the Third Player spots the Second Player, \
+and puts down the table.\
+\
+\
+        THIRD PLAYER\
+Hey!  You!  What are you doing \
+here?\
+\
+        SECOND PLAYER\
+I came to taste your tarts, my \
+dear!\
+\
+        THIRD PLAYER\
+Have you got rocks inside your \
+head?\
+If the King finds us here, we're \
+dead!\
+\
+        SECOND PLAYER\
+You think I'm frightened of that \
+bum?\
+That stupid fool!  That twerp!  \
+That crumb!\
+Hey!  I'll tell you what I'll do,\
+I'll kill the King and marry you!\
+\
+\
+As the Second Player continues telling his plans, \
+the real King, seated in the audience, becomes \
+visibly upset.\
+\
+\
+        SECOND PLAYER\
+I'll wait until he's fast asleep\
+Out in his orchard.  There I'll \
+creep.\
+I'll bring a jar of poison, dear,\
+And I will pour it in his ear!\
+\
+\
+The King stands, horrified.  At this point, the \
+First Player enters, unnoticed by the Second \
+Player or the First Player.\
+\
+        SECOND PLAYER\
+As soon as that poor slob is dead,\
+I'll arrange that we'll be wed!\
+And you will bake the pies I crave,\
+While he is rotting in his grave.\
+\
+\
+The Second Player picks up a small cream pie.\
+\
+\
+        KING\
+Stop the play!\
+\
+\
+The Players are so intent on their play that they \
+ignore the King.  Suddenly, the Third Player \
+(still in his role as the Queen of Hearts) spots \
+the First Player.\
+\
+\
+        THIRD PLAYER\
+I think it's high time that I went!\
+\
+\
+The Third Player starts to walk off stage.  The \
+First Player grabs the Second Player and spins him \
+around.  The Second Player accidentally hits the \
+First Player in the face with the pie.\
+\
+\
+        SECOND PLAYER\
+I didn't mean it!  It was an \
+accident!\
+\
+        FIRST PLAYER\
+Why, you...\
+\
+        KING\
+Stop the play!\
+\
+\
+The First Player picks up a pie, and throws it at \
+the Second Player.  The Second Player ducks, and \
+the pie hits the Third Player.  The King walks \
+over to the Players to stop the play.\
+\
+\
+        KING\
+Stop the play!\
+\
+\
+The Third Player picks up a large cream pie and \
+starts to smash it into the face of the First \
+Player.\
+\
+\
+        KING\
+Give me some light!!!\
+\
+\
+The First Player ducks and the Third Player hits \
+the real King in the face with the pie.  The real \
+King rushes off stage.  The Queen, Polonius, \
+Ophelia, Rosencrantz and Guildenstern follow the \
+King.\
+\
+        FIRST PLAYER\
+I think we'd better beat it, boys.\
+\
+\
+The Players exit.  Only Hamlet and Horatio are \
+left on stage.\
+\
+\
+        HAMLET\
+Did you see that?  Did you?  Did \
+you see what the King did?\
+\
+        HORATIO\
+Yeah, he got the pie I wanted.\
+\
+        HAMLET\
+And he stopped the play before the \
+best part!  Right before the big \
+musical number!\
+\
+\
+Re-enter Rosencrantz and Guildenstern.  They walk \
+hesitantly up to Hamlet.\
+\
+\
+        GUILDENSTERN\
+We have a message for you from your \
+mother.\
+\
+        HAMLET\
+Yes?\
+\
+        ROSENCRANTZ\
+She wants to speak to you in her \
+room before you go to bed.\
+\
+        HAMLET\
+All right.\
+\
+\
+He looks at Rosencrantz and Guildenstern, who \
+obviously have something else on their minds, but \
+who are reluctant to speak up.\
+\
+\
+        HAMLET\
+Do you boys have anything else on \
+your minds?\
+\
+\
+Rosencrantz and Guildenstern remain silent.\
+\
+\
+        HAMLET\
+Do you have anything on your minds?  \
+Do you have minds?\
+\
+\
+Rosencrantz and Guildenstern look at each other, \
+and then Guildenstern summons up the courage to \
+speak to Hamlet.\
+\
+\
+        GUILDENSTERN\
+We still don't know why you're \
+screwy.\
+\
+\
+At this point the Players walk in playing \
+recorders.  They do not play very well.\
+\
+\
+        FIRST PLAYER\
+Since the King didn't seem to like \
+our play, we thought he might enjoy \
+some music.  Where is the King?\
+\
+        HAMLET\
+Let me see that.\
+\
+\
+Hamlet snatches one of the recorders.  He looks at \
+it, then hands it to Guildenstern.\
+\
+\
+        HAMLET\
+Here.  Play upon this pipe.\
+\
+        GUILDENSTERN\
+My lord, I cannot.\
+\
+        HAMLET\
+I pray you.\
+\
+        GUILDENSTERN\
+Believe me, I cannot.\
+\
+        HAMLET\
+Please.  I beseech you.\
+\
+\
+Suddenly Hamlet's voice turns threatening.\
+\
+\
+        HAMLET\
+Play it!!!\
+\
+\
+Guildenstern is near tears.\
+\
+\
+        GUILDENSTERN\
+I don't know how to play the pipe.\
+\
+        HAMLET\
+You don't, eh?  Then you must think \
+I'm simpler than this pipe!  You \
+think you can get all my secrets \
+out of me just by asking, but you \
+can't get anything out of this \
+pipe!  You're willing to play on \
+me, aren't you?  You think it's \
+easier to play on me than this \
+pipe!  You thought you could play \
+me, so surely you can play a simple \
+pipe!  Go ahead!  Play it!!!\
+\
+        GUILDENSTERN\
+But I don't ... I . . .\
+\
+        HAMLET\
+Play it!\
+\
+\
+Guildenstern tearfully tries to play the pipe.  To \
+his surprise, beautiful music comes out.  \
+Guildenstern takes the pipe away from his lips to \
+examine it.  He can't figure out how he managed to \
+play it.  He gives up trying to figure it out, \
+shrugs his shoulders, and happily begins to play \
+again.  Guildenstern continues to play very \
+complicated, rich, classical music.  He plays like \
+an expert, even though he doesn't know how.  \
+Guildenstern stops playing and smiles happily at \
+Hamlet.\
+\
+\
+        HAMLET\
+Excuse me, I think I hear my mother \
+calling.\
+\
+\
+Exit Hamlet.  Exeunt all.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene III\
+\
+\
+Scene III takes place in a room in the castle.  \
+Enter the King, Rosencrantz and Guildenstern.\
+\
+\
+        KING\
+I like him not, nor stands it safe \
+with us to let his madness range.  \
+Therefore prepare you.  I shall \
+execute a commission for you to \
+take him with you to England.  Go!  \
+Get ready!\
+\
+\
+Rosencrantz and Guildenstern bow and exit.  Enter \
+Polonius.\
+\
+\
+        POLONIUS\
+My lord, he's going to his mother's \
+room.  I'll get there first and \
+hide behind the arras and listen to \
+what they say.  I'll tell you \
+everything.\
+\
+        KING\
+Thank you, my good friend.\
+\
+\
+Exit Polonius.\
+\
+\
+        KING\
+Oh my offense is rank, it smells to \
+heaven.  I have murdered my own \
+brother.  Prince Hamlet knows what \
+I have done; I'm sure of it.  He \
+puts on a mask of madness, while he \
+plots against me, and I deserve to \
+be plotted against.  I've killed my \
+brother!  I should pray for \
+forgiveness, but how can I?  I \
+still have my crown and my queen, \
+and I will not give them up.  I \
+will not show repentance.  Alas, \
+there can be no forgiveness without \
+repentance, can there?\
+\
+\
+The King kneels, sorrowfully, as if in prayer.  \
+Enter Hamlet.  He is startled to see the King.  \
+Hamlet muses to himself.   The King is unaware of \
+Hamlet's presence.\
+\
+\
+        HAMLET\
+What's this?  The King! I could \
+kill him now, while he's alone.  It \
+would be easy.  I could run him \
+through while he's praying and send \
+him straight to heaven, which is \
+better than he deserves ... much \
+better.  He's praying, which means \
+if I killed him now, he'd go \
+straight to heaven, ... and I'd be \
+left down here in Denmark.  He'd \
+like that, I'll bet!  I can just \
+see him up there, laughing at me!  \
+Why shouldn't he laugh?  He gets \
+heavenly bliss, and I'm stuck here \
+with Rosencrantz and Guildenstern!  \
+He'd think that was pretty funny, \
+the lout!  Well, I'll show him.\
+\
+\
+Hamlet strides over to the King.\
+\
+\
+        HAMLET\
+I wouldn't kill you now if you \
+begged me!  So there!\
+\
+\
+Exit Hamlet.  The King is bewildered.\
+\
+\
+        KING\
+Maybe he really is insane after \
+all.\
+\
+\
+Exit the King.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene IV\
+\
+\
+Scene IV takes place in the Queen's bedroom.  \
+Enter the Queen and Polonius.\
+\
+\
+        POLONIUS\
+He will come straight.  Pray you, \
+be round with him.\
+\
+        HAMLET\
+(off stage)\
+Mother!  Mother!\
+\
+        QUEEN\
+Withdraw!  I hear him coming.\
+\
+\
+Polonius hides behind the arras.  The Queen sits \
+in a chair.  Enter Hamlet.\
+\
+\
+        HAMLET\
+Now, Mother, what's the matter?\
+\
+        QUEEN\
+Hamlet, thou hast thy father much \
+offended.\
+\
+        HAMLET\
+Mother, thou hast my father much \
+offended.\
+\
+        QUEEN\
+Come, come, you answer with an idle \
+tongue.\
+\
+        HAMLET\
+Go, go, you question with a wicked \
+tongue.  And thou hast my father \
+much offended!\
+\
+        QUEEN\
+Have you forgotten who I am?\
+\
+        HAMLET\
+No!  You are the Queen, your \
+husband's brother's wife; and -- \
+would it were not so -- you are my \
+mother!  And thou hast my father \
+much offended!  Let's see you top \
+that!\
+\
+        QUEEN\
+I don't understand a word you're \
+saying.\
+\
+        HAMLET\
+No, you wouldn't, would you?  All \
+you did was marry your own brother-\
+in-law, my uncle.  That's all you \
+did, relatively speaking.  Did you \
+ever stop to think where we'd be if \
+everyone married my uncle?  Why, \
+we'd be up to our ears in aunts, \
+for one thing, and that's no \
+picnic.\
+\
+        QUEEN\
+I give up!  I can't talk to you.\
+\
+\
+The Queen starts to stand.  Hamlet pushes her back \
+down into her chair.\
+\
+\
+        HAMLET\
+Oh no, you're going to take a good \
+hard look at yourself and face the \
+ugly truth.\
+\
+\
+The Queen panics.\
+\
+\
+        QUEEN\
+What are you going to do?  You \
+won't murder me?  Help!  Help me!\
+\
+        POLONIUS\
+(behind the arras)\
+What?  Help!  Help!\
+\
+        HAMLET\
+How now!  A rat!\
+\
+\
+Hamlet stabs Polonius through the arras.\
+\
+\
+        POLONIUS\
+(behind the arras)\
+Oh, I am slain!\
+\
+\
+Polonius falls and dies, still behind the arras.\
+\
+\
+        HAMLET\
+Is that the King?\
+\
+\
+Hamlet pulls aside the arras and discovers \
+Polonius.\
+\
+\
+        HAMLET\
+Oops.  Well, I guess the joke's on \
+me.  I just killed the wrong man!  \
+I'll tell you what, Mom, you keep \
+quiet about this to Claudius, and I \
+won't tell him about the strange \
+man hiding in your bedroom.\
+\
+        QUEEN\
+Oh what a rash and bloody deed is \
+this!\
+\
+        HAMLET\
+Oh, so now you're going to blame \
+all this on me!  Some mother you \
+are!  If you hadn't married my \
+uncle, none of this would have \
+happened, and we could all be \
+performing "The Merry Wives of \
+Windsor" somewhere.  Why couldn't \
+you have stayed married to my \
+father?  My father!  Now there's an \
+ideal husband!\
+\
+        QUEEN\
+But your father is dead.\
+\
+        HAMLET\
+That's what I mean.  He's quiet, \
+undemanding, and you don't have to \
+cook for him.  But you preferred to \
+marry a pig like Claudius and make \
+him the new Danish King.  Claudius!  \
+He's the cheesiest Danish I've ever \
+seen.  Aren't you ashamed?\
+\
+        QUEEN\
+Stop!  I refuse to listen to \
+another word!\
+\
+\
+Enter the Ghost.\
+\
+\
+        HAMLET\
+Now here's a King who knows how to \
+rule!\
+\
+\
+The Ghost takes out a yardstick and starts \
+measuring things.\
+\
+\
+        HAMLET\
+Hey, this is "Hamlet," not "Measure \
+For Measure!"\
+\
+        QUEEN\
+Hamlet, what are you talking about?\
+\
+        HAMLET\
+I'm talking to him!  Don't you see \
+him?\
+\
+        QUEEN\
+Who?\
+\
+        HAMLET\
+She can't see you!\
+\
+\
+The Ghost delights in the fact that the Queen \
+can't see him.  He goes over to her and makes a \
+horrible face right in front of her.  He's having \
+a great time.\
+\
+\
+        HAMLET\
+Yeah, you might as well enjoy \
+yourself.\
+\
+        QUEEN\
+I'm not enjoying this one bit!\
+\
+\
+The Ghost mimes an imitation of the Queen.\
+\
+\
+        HAMLET\
+What a couple you two make!\
+\
+        QUEEN\
+What couple?  There's only one of \
+me.\
+\
+        HAMLET\
+Yeah, but you're shaped like a \
+pear.\
+\
+\
+The Ghost suddenly notices the corpse of Polonius.  \
+The Ghost is shocked.  He turns to Hamlet for an \
+explanation.\
+\
+\
+        HAMLET\
+Yeah, I know.  Say, it's too bad he \
+didn't put the poison in your ear.  \
+Then everything would be fine.  Are \
+you sure Polonius didn't kill you?  \
+You're positive?\
+\
+\
+The Ghost nods his head "yes."\
+\
+\
+        HAMLET\
+That's too bad.  I guess we owe him \
+one.  Maybe I could get Ophelia to \
+pour some poison in Horatio's ear.  \
+That would even things up.\
+\
+\
+The Ghost shakes his head "no," and mimes violence \
+to Claudius.\
+\
+\
+        HAMLET\
+Yeah, I guess I've still got to \
+avenge your death.  But after this \
+you owe me a favor.  Fair is fair.\
+\
+\
+The Ghost nods "yes" and exits.\
+\
+\
+        QUEEN\
+Hamlet, what are you talking about?\
+\
+        HAMLET\
+It's very simple, Mom.  All I want \
+is for you to behave yourself.  Be \
+a decent woman, the kind of mother \
+a guy can be proud to take home to \
+his girlfriend.  That's all I'm \
+asking.  And stay away from \
+Claudius!\
+\
+        QUEEN\
+But Claudius and I are married.\
+\
+        HAMLET\
+Exactly!  He's a married man!  Do \
+you know how that looks?  Do you?  \
+You and Claudius?  Do you have any \
+idea how that looks?\
+\
+        QUEEN\
+No, I do not!\
+\
+        HAMLET\
+Well, do you remember the two \
+baboons we saw at the circus last \
+year?  Look, Mom, I know you don't \
+mean to be bad.  It's not your \
+fault; you're just naturally \
+rotten.\
+\
+\
+Enter Horatio.\
+\
+\
+        HORATIO\
+Hey, Hamlet, the King say you gotta \
+pack.  He's sending you to England \
+with Rosencrantz and Guildenstern.\
+\
+        HAMLET\
+Tell him I'd rather go to the \
+French Riviera with Ophelia.\
+\
+        HORATIO\
+No, he says you've got to go to \
+England.\
+\
+        HAMLET\
+Well, why not?  I might as well get \
+out of Denmark until this business \
+with Polonius blows over.\
+\
+\
+Horatio notices the corpse of Polonius for the \
+first time.\
+\
+\
+        HORATIO\
+Hey, he doesn't look so good.\
+\
+        HAMLET\
+Don't worry about him.  It's just a \
+slight case of death, that's all.  \
+There's a lot of it going around \
+these days.\
+\
+        HORATIO\
+I hope it isn't catching.\
+\
+        HAMLET\
+Come on, help me drag this body out \
+of here.\
+\
+\
+Hamlet and Horatio begin to drag out the body of \
+Polonius.\
+\
+\
+        HAMLET\
+Indeed this counselor is now most \
+still, most secret, and most grave, \
+who was in life a foolish prating \
+knave.  Come, sir, to draw toward \
+an end with you.  Good night, \
+mother.\
+\
+\
+Exeunt Hamlet and Horatio, dragging Polonius.  \
+Exit the Queen.\
+\
+\
+**************************************************\
+\
+\
+ACT IV\
+\
+Scene I\
+\
+\
+Scene I takes place in a room in the castle.  \
+Enter the King and Queen.  The Queen is obviously \
+very upset.\
+\
+\
+        KING\
+There's matter in these sighs.  You \
+must translate; 'tis fit we \
+understand them.\
+\
+        QUEEN\
+My good lord, Hamlet in his madness \
+has slain Polonius.\
+\
+        KING\
+He would have killed me, had I been \
+there.  Where has he gone?\
+\
+        QUEEN\
+To hide the body.\
+\
+        KING\
+Rosencrantz!  Guildenstern!\
+\
+\
+Rosencrantz and Guildenstern enter.\
+\
+\
+        KING\
+Hamlet's killed Polonius.  Find \
+him, and bring the body to the \
+chapel.\
+\
+        ROSENCRANTZ\
+But your majesty, don't you think \
+it would be better if some armed \
+guards or ...\
+\
+        KING\
+Find him and be quick about it!\
+\
+        ROSENCRANTZ\
+Yes, your majesty.\
+\
+\
+Rosencrantz turns to Guildenstern as they start to \
+leave.\
+\
+\
+        ROSENCRANTZ\
+This is all your fault!  If you \
+hadn't played upon the pipe ...\
+\
+        GUILDENSTERN\
+(weeping)\
+But I didn't want to play the pipe!\
+\
+\
+Exeunt Rosencrantz and Guildenstern, nervously \
+stumbling and bumping into each other.\
+\
+\
+        KING\
+Gertrude, we must discuss this \
+matter further.  Oh, come away.  My \
+soul is filled with discord and \
+dismay.\
+\
+\
+Exeunt.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene II\
+\
+\
+Scene II takes place in a passage in the castle.  \
+Enter Hamlet, who has just hidden the body of \
+Polonius.\
+\
+\
+        HAMLET\
+Safely stowed!\
+\
+\
+Rosencrantz and Guildenstern call from off stage.\
+\
+\
+        ROSENCRANTZ\
+(off stage)\
+Hamlet!\
+\
+        GUILDENSTERN\
+(off stage)\
+Lord Hamlet!\
+\
+        HAMLET\
+Who calls on Hamlet?  Oh, here they \
+come.\
+\
+\
+Enter Rosencrantz and Guildenstern, hesitantly.  \
+They are afraid of Hamlet.  Rosencrantz speaks to \
+Guildenstern.\
+\
+\
+        ROSENCRANTZ\
+Now whatever you do, don't upset \
+him!  You know how irritable he's \
+been lately.\
+\
+        HAMLET\
+Well?  What do you two want?\
+\
+        GUILDENSTERN\
+Rosencrantz wants to ask you a \
+question.\
+\
+        ROSENCRANTZ\
+Pardon us, your lordship, but we \
+happened to overhear a certain \
+rumor that a slight accident might \
+have befallen Polonius, and we \
+thought perhaps we might offer you \
+our humble assistance to help you \
+dispose of the ...  earthly \
+remains.  If you have no \
+objections, of course.\
+\
+        HAMLET\
+Sorry, boys, the body stays hidden.\
+\
+        GUILDENSTERN\
+Why don't you tell us where you hid \
+it, so we can make sure we don't \
+look for it there?\
+\
+        HAMLET\
+Bring me to the King.\
+\
+\
+Exeunt.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene III\
+\
+\
+Scene III takes place in a room in the castle.  \
+Enter the King with ATTENDANTS.\
+\
+\
+        KING\
+I have sent to seek him and to find \
+the body.  How dangerous is it that \
+this man goes loose!\
+\
+\
+Enter Rosencrantz.\
+\
+        KING\
+Well?  Did you find the body?\
+\
+        ROSENCRANTZ\
+No, your majesty.  He wouldn't tell \
+us where it is.\
+\
+        KING\
+Then where is Hamlet?\
+\
+        ROSENCRANTZ\
+Guildenstern!  Bring in Hamlet.\
+\
+\
+Enter Guildenstern and Hamlet.\
+\
+\
+        KING\
+Now, Hamlet, where's Polonius?\
+\
+        HAMLET\
+At supper.\
+\
+        KING\
+Supper?  Where?\
+\
+        HAMLET\
+Not where he eats, but where he is \
+eaten.  By maggots.  Do you realize \
+that we fatten chickens and cows to \
+fatten ourselves, and we fatten \
+ourselves to fatten maggots.  But \
+who do the maggots fatten?  It's \
+time the maggots learned that \
+there's no free lunch.  So here's \
+your bill for Polonius.  Oh, I'm \
+sorry, I thought you were a maggot.\
+\
+        KING\
+Hamlet!!!   Where is Polonius?\
+\
+        HAMLET\
+In heaven.  You can send a \
+messenger to find him.  If he's not \
+there, seek him in the other place \
+yourself.  If you don't find him in \
+a month, you should be able to nose \
+him out as you go up the stairs \
+into the lobby.\
+\
+        KING\
+(to the Attendants)\
+Go seek him there.\
+\
+        HAMLET\
+He will stay till you come.\
+\
+\
+Exeunt the Attendants.\
+\
+\
+        KING\
+Hamlet, I've arranged for you to go \
+to England.  I want you to leave at \
+once!\
+\
+        HAMLET\
+Anything you say.  To England!  \
+Farewell, Mother.\
+\
+        KING\
+I'm your uncle, Hamlet, and your \
+step-father.\
+\
+        HAMLET\
+Well, why not take another step and \
+be a mother.  After all, father and \
+mother are man and wife; man and \
+wife are one flesh.  You are one \
+flesh aren't you?  You look more \
+like a flush.  A royal flush, if \
+you like.\
+\
+\
+Hamlet turns to Rosencrantz and Guildenstern and \
+gestures for them to follow him.\
+\
+\
+        HAMLET\
+Come, for England!\
+\
+\
+Exit Hamlet.\
+\
+\
+        KING\
+Follow him!  And do not forget the \
+commission I gave you!  Deliver it \
+to the English King!\
+\
+        ROSENCRANTZ\
+Don't worry, your majesty.  We'll \
+take care of everything.  Come, \
+Guildenstern.\
+\
+\
+Exeunt Rosencrantz and Guildenstern.\
+\
+\
+        KING\
+My commission orders the present \
+death of Hamlet.  The King of \
+England owes me a favor.  Do it, \
+England!  Until I know my son-in-\
+law is dead, I cannot rest easy.\
+\
+\
+Exit the King.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene IV\
+\
+\
+Scene IV takes place on a plain in Denmark.  Enter \
+a CAPTAIN and several SOLDIERS from Fortinbras's \
+army.  Enter Hamlet, Rosencrantz and Guildenstern.\
+\
+\
+        HAMLET\
+Good sir, whose powers are these?\
+\
+        CAPTAIN\
+They are of Norway, sir, led by \
+young Fortinbras.  We await \
+permission from the Danish King for \
+our army to pass through his lands \
+on the way to Poland.\
+\
+        HAMLET\
+What's in Poland?\
+\
+        CAPTAIN\
+The King of Norway would not permit \
+young Fortinbras to attack Denmark, \
+so we are attacking Poland instead.\
+\
+        HAMLET\
+What for?\
+\
+        CAPTAIN\
+Young Fortinbras hopes to gain a \
+little patch of ground, that has no \
+worth for farming or any other \
+value, save as an excuse for the \
+shedding of blood.\
+\
+        HAMLET\
+I see.\
+\
+        CAPTAIN\
+God be with you, sir.\
+\
+\
+Exeunt the Captain and soldiers.\
+\
+\
+        ROSENCRANTZ\
+Will you come, my lord?  We have \
+almost reached the harbor from \
+whence we sail to England.\
+\
+        HAMLET\
+I'll be with you in a minute.  I \
+feel another soliloquy coming on.\
+\
+\
+Exeunt Rosencrantz and Guildenstern.\
+\
+\
+        HAMLET\
+Twenty thousand men march to their \
+graves for a worthless plot of \
+land.  Why can't I do anything that \
+violent, or that funny?  Everyone \
+thinks young Fortinbras is a great \
+prince because he's going to kill \
+all those people, and all I've \
+killed is old Polonius.  Some \
+leader I am!  Of course, Young \
+Fortinbras has an advantage -- he's \
+got an entire army to sacrifice for \
+a useless cause.  Whose lives have \
+I got to throw away?  \
+\
+\
+Re-enter Rosencrantz and Guildenstern.\
+\
+\
+        ROSENCRANTZ\
+The boat awaits you, my lord.\
+\
+        HAMLET\
+Tell me, boys, how would you two \
+like to serve your country?\
+\
+\
+Exeunt.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene V\
+\
+\
+Scene V takes place in a room in the castle at \
+Elsinore.  Enter the King, the Queen and Horatio.\
+\
+\
+        QUEEN\
+I will not see her.\
+\
+        HORATIO\
+I don't blame you.  She's crazy.  \
+All she does is sing crazy songs \
+all the time, and she's always \
+telling everyone about her father's \
+death, and how it's all your fault.\
+\
+        KING\
+What?  You mean she is sewing \
+discord among the people?\
+\
+        HORATIO\
+What cord?\
+\
+        KING\
+Discord!\
+\
+        HORATIO\
+What cord?\
+\
+        KING\
+Discord!\
+\
+        HORATIO\
+You keep saying, "dis cord," but I \
+don't see any cord.\
+\
+        KING\
+I said she sews discord.\
+\
+        HORATIO\
+No, she doesn't sew any cords, but \
+she plays some chords when she \
+sings her crazy songs.  She keeps \
+acting crazy all the time.  I've \
+never seen anyone act so crazy.\
+\
+        QUEEN\
+Let her come in.  We had better \
+find out if she is stirring up \
+trouble among the rabble.\
+\
+\
+Horatio exits, and comes back with Ophelia, who \
+seems to be doing an imitation of Hamlet, loping \
+across the stage with a cigar in her mouth.  She \
+carries a lute, or a banjo, or some other stringed \
+instrument.\
+\
+\
+        OPHELIA\
+Where's the beauteous Queen of \
+Denmark?  There, if that doesn't \
+convince you I'm crazy, nothing \
+will!\
+\
+        QUEEN\
+Ophelia!\
+\
+        OPHELIA\
+Oh, feel - yaself!  What kind of a \
+name is Ophelia, anyway??  Is it \
+any wonder the boys all think I'm \
+easy?  Oh well, easy come, easy go.\
+\
+\
+She starts to strum on the musical instrument she \
+carries.\
+\
+\
+        OPHELIA\
+My first number is, "He Is Dead And \
+Gone."\
+\
+\
+She sings:\
+\
+\
+        OPHELIA\
+He is dead and gone, lady,\
+He is dead and gone.\
+We did not want him dead and here,\
+So he is dead and gone.\
+\
+        KING\
+She is distracted by her father's \
+death.\
+\
+        OPHELIA\
+Let's not talk about that!  My \
+second number is called "Saint \
+Valentine's Day."\
+\
+\
+She sings:\
+\
+\
+        OPHELIA\
+Tomorrow is Saint Valentine's Day,\
+And as the sun did shine,\
+I came, a maid, at your window,\
+To be your valentine.\
+\
+Then up he rose, and donned his \
+clothes,\
+And opened wide the door,\
+Let in the maid, and made the maid,\
+So she was a maiden no more.\
+\
+By gosh, and by Saint Charity,\
+Alack, and cry for shame!\
+Young men will do it, if they can \
+do it.\
+By cock, they are to blame!\
+\
+Quoth she, "Before you tumbled me,\
+You promised me to wed."\
+He answers:\
+"So would I have done, by yonder \
+sun,\
+If thou hadst not come to my bed."\
+\
+        QUEEN\
+Oh, poor Ophelia.\
+\
+        OPHELIA\
+I'm not finished yet!\
+\
+\
+Ophelia continues her song:\
+\
+\
+        OPHELIA\
+Quoth she, "That is hypocrisy,\
+For you begged me into your bed!\
+So marry me quick, or I'll cut off \
+thy wick-\
+Ed tongue!"   And so they were wed!\
+\
+        HORATIO\
+Say, does she remind you of the man \
+who comes to fix the sink?\
+\
+        KING\
+How long has she been like this?\
+\
+        OPHELIA\
+Tell me, do you think it's all \
+right for a girl to marry a guy \
+who's killed her father, or is that \
+considered a breach of social \
+etiquette?   The guy who did it is \
+a real son of a breach.  I don't \
+think my brother is going to like \
+this.  Maybe you should do \
+something to make it up to him, \
+like name him as your heir.  Heir \
+today, and gone tomorrow!\
+\
+\
+Exit Ophelia.  The King orders Horatio to follow \
+her.\
+\
+\
+        KING\
+Guard her closely!  Keep a careful \
+watch, I pray you.  Her grief has \
+driven her mad.\
+\
+        HORATIO\
+Don't worry.  I'll guard her.\
+\
+\
+Exit Horatio.\
+\
+\
+        KING\
+This is all Hamlet's fault!  First \
+he went mad and spurned her love; \
+then he killed her father; and now \
+we have had to bury Polonius \
+quietly and without ceremony.  \
+Worst of all, I have heard that \
+Laertes has secretly returned from \
+France, and the people have fed him \
+vicious rumors about his father's \
+death! \
+\
+\
+Loud noises come from off stage.\
+\
+\
+        QUEEN\
+What is this noise?\
+\
+\
+Enter a MESSENGER.\
+\
+\
+        KING\
+What's the matter?\
+\
+        MESSENGER\
+Laertes has returned.  The people \
+have welcomed him and they cry that \
+they choose him for their king!  I \
+fear they will break down the \
+doors!\
+\
+\
+A crash of doors being broken open is heard off \
+stage.  Enter Laertes.\
+\
+\
+        LAERTES\
+What has happened to my father?\
+\
+        QUEEN\
+Calm down, good Laertes!\
+\
+        LAERTES\
+First tell me what has happened to \
+my father!  If he was murdered, I \
+must be revenged!  That is my duty \
+as his son!\
+\
+        KING\
+Believe me, Laertes, I am guiltless \
+of thy father's death, and I grieve \
+for him.  When I tell you the whole \
+story, you will see that you have \
+no cause to blame me.\
+\
+\
+Enter Ophelia, still doing a mad impersonation of \
+Hamlet.  This time, in addition to her musical \
+instrument, she carries several large bunches of \
+flowers.\
+\
+\
+        LAERTES\
+Ophelia!!!   Have you gone mad?\
+\
+\
+Ophelia sings.\
+\
+\
+        OPHELIA\
+And will he not come again?\
+And will he not come again?\
+They laid him deep in his grave,\
+'Cause his flesh was decayed,\
+So he'd better not come again!\
+\
+\
+She hits the King and Queen in their faces with \
+flowers.\
+\
+\
+        OPHELIA\
+Here, have some flowers!  You too!  \
+Well, aren't you going to put them \
+in water?  Do you want them to rot, \
+like my father?  Go put them in \
+water!\
+\
+\
+The King and Queen exit with their flowers.  \
+Ophelia drops her feigned madness, and speaks \
+quickly to her startled brother.\
+\
+\
+        OPHELIA\
+Hush!  I'm only feigning madness, \
+and while I pretend, I stir up the \
+angry populace, and prepare your \
+path to the throne of Denmark!\
+\
+        LAERTES\
+But, Hamlet. . .\
+\
+        OPHELIA\
+Hamlet doesn't stand a chance \
+anymore!  It would surprise me if \
+Claudius hasn't already arranged \
+for his death.  My only chance for \
+power is to have you crowned King.\
+\
+        LAERTES\
+What are you going to do?\
+\
+        OPHELIA\
+I have arranged with my handmaidens \
+to fake my own death.  I will \
+appear to have drowned, and the \
+people will be so angered, and \
+Claudius will feel so guilty, he \
+must name you as heir to the \
+throne.  Once that is done, and \
+they lay me in the ground for \
+burial, you must leap into my grave \
+and pray for me.  I will revive as \
+if it were by a miracle.\
+\
+        LAERTES\
+It may work!\
+\
+        OPHELIA\
+It is bound to work, if you play \
+your part.  Just make certain you \
+claim my body as soon as you hear \
+that I have drowned, and don't let \
+anyone examine me too closely.\
+\
+\
+The King re-enters, and Ophelia immediately goes \
+back into her act of madness.\
+\
+\
+        OPHELIA\
+I thought I'd marry Hamlet and be a \
+Queen someday, but then my father \
+died and he left me a poor orphaned \
+waif.  I was hoping he'd leave me \
+some money.  Oh well, where's \
+there's a will, there's a waif.  \
+Time for me to waif good-bye.  Waif \
+not, want not!  Good night!  Good \
+night!  Good-bye.\
+\
+\
+Exit Ophelia.\
+\
+\
+        KING\
+Laertes, you must come with me, and \
+I will explain to you everything \
+about your father's death, and when \
+I am done you will understand it \
+was no fault of mine.  I pray you, \
+come with me.\
+\
+\
+Exeunt.\
+\
+\
+\
+**************************************************\
+\
+\
+\
+Scene VI\
+\
+\
+Scene VI takes place in another room in the \
+castle.  Enter Horatio.  A SAILOR follows him in.\
+\
+        HORATIO\
+What?\
+\
+\
+The SAILOR hands a letter to Horatio.\
+\
+\
+        SAILOR\
+Good Horatio, I have a letter for \
+you from Prince Hamlet.\
+\
+\
+Horatio takes the letter, and studies it intently \
+without saying a word.  Then he hands it back to \
+the sailor.\
+\
+\
+        HORATIO\
+What's it say?\
+\
+        SAILOR\
+Can't you read?  I thought you were \
+a great scholar at the university \
+at Wittenberg.\
+\
+        HORATIO\
+Sure, at Wittenberg, but this is \
+Denmark!\
+\
+        SAILOR\
+All right, the letter says, " Dear \
+Horatio,  It's great to be in \
+England.  Unfortunately, I'm in \
+Denmark.  Two days out at sea, we \
+were savagely attacked by a band of \
+pirates, freebooters, and a dozen \
+Shakespearean scholars.  The \
+fighting was fierce, and we were \
+badly outnumbered, so I drew my \
+sword and joined the other side.  \
+Before I knew it, the boats had \
+split up again, and I was stuck \
+with the scholars.  After making me \
+promise never to perform "King \
+Lear," they let me off on the shore \
+of Denmark.  Please have this \
+sailor bring you to me.  I have \
+much to tell you, including the \
+fates of Rosencrantz and \
+Guildenstern and King Lear.  No, \
+just kidding.  Nothing about King \
+Lear.  Your friend,   Hamlet."\
+\
+        HORATIO\
+OK, take me to Hamlet.\
+\
+\
+Exeunt.\
+\
+\
+\
+**************************************************\
+\
+\
+Scene VII\
+\
+\
+Scene VII takes place in another room in the \
+castle.  Enter the King and Laertes.\
+\
+\
+        KING\
+Now must your conscience my \
+acquaintance seal, and you must put \
+me in your heart as friend.\
+\
+        LAERTES\
+But why haven't you done anything \
+to Hamlet?\
+\
+        KING\
+I have, Laertes, but craftily, so \
+that I will not be blamed for his \
+death by the Queen, or by the \
+Danish people, who for some reason \
+unknown to me, like the Prince.  \
+But set your mind to rest; even as \
+we speak, Hamlet has surely me his \
+death, executed by the King of \
+England.\
+\
+\
+Enter a MESSENGER.\
+\
+\
+        KING\
+How now?  What news?\
+\
+        MESSENGER\
+A sailor has brought a letter to \
+you from Hamlet.\
+\
+        KING\
+What????\
+\
+\
+The King takes the letter from the Messenger and \
+reads it.\
+\
+\
+        KING\
+He's back in Denmark, I know not \
+how!\
+\
+        LAERTES\
+Then is he to go unpunished, and \
+someday follow you to the throne?\
+\
+        KING\
+Laertes, how would you like to \
+follow me?  Help me to be rid of \
+Hamlet, and the succession is \
+thine.\
+\
+        LAERTES\
+Say on, good King.\
+\
+        KING\
+We must plan his death carefully.  \
+I know that Hamlet is most jealous \
+of your skill as a swordsman.  You \
+shall have a sporting match with \
+him.  We will arrange that Hamlet's \
+sword shall be blunted, as befits a \
+friendly duel, but your sword shall \
+be unbated so that you may, as if \
+it were by accident, run him \
+through.\
+\
+        LAERTES\
+I'll do it.  And what is more, to \
+make certain his death, I'll anoint \
+my sword with a deadly poison, so \
+that even if I do but scratch him, \
+he must die.\
+ \
+        KING\
+And I'll prepare a chalice of \
+poisoned wine for him to drink, so \
+that if he should escape your \
+envenomed blade, our purpose will \
+hold.\
+\
+        LAERTES\
+And should that fail, I will \
+arrange a chandelier to fall upon \
+him!\
+\
+        KING\
+And I will build a trap door above \
+a pit of hungry crocodiles so \
+that...  No, on second thought, \
+let's just stick with the envenomed \
+sword and the poisoned wine.  That \
+should be sufficient to ensure his \
+death.  There's no point in \
+overdoing it.\
+\
+\
+They shake hands.  Enter the Queen.  She is very \
+upset.\
+\
+\
+        KING\
+How now, sweet Queen!\
+\
+        QUEEN\
+Your sister's drowned, Laertes!\
+\
+        LAERTES\
+Drowned!\
+\
+        QUEEN\
+There is a willow which grows \
+beside a brook.  Ophelia went there \
+to pick flowers.  She was holding \
+onto a branch which broke, and sent \
+her tumbling into the brook.  In \
+her madness she did not even try to \
+save herself, but sang snatches of \
+old tunes as she sank beneath the \
+surface of the brook.  When her \
+handmaidens pulled her out, they \
+said she was dead.\
+\
+\
+Laertes pretends to be overcome with grief.\
+\
+\
+        LAERTES\
+Drowned.\
+\
+\
+Abruptly, Laertes ends his act and says good-bye \
+to the King.\
+\
+\
+        LAERTES\
+Adieu, my lord.\
+\
+\
+Exit Laertes.\
+\
+\
+        KING\
+Let's follow, Gertrude!  How much I \
+had to do to calm his rage!  Now \
+fear I this will give it start \
+again; therefore let's follow.\
+\
+\
+Exeunt.\
+\
+\
+\
+***********************************************************************\
+\
+\
+Act V\
+\
+Scene I\
+\
+\
+Scene I takes place in a cemetery in a churchyard \
+in Elsinore.  There is a deep grave which is \
+almost completed.  Enter a GRAVEDIGGER who starts \
+to finish digging the grave.  Enter Hamlet and \
+Horatio.\
+\
+\
+        HAMLET\
+I will speak to this fellow.  Whose \
+grave's this, sirrah?\
+\
+        GRAVEDIGGER\
+Mine, sir.\
+\
+        HAMLET\
+I think it be thine indeed, for \
+thou liest in it.\
+\
+\
+Hamlet turns and speaks to the audience.\
+\
+\
+        HAMLET\
+Well, what do you want from a joke \
+that's over 350 years old?\
+\
+        GRAVEDIGGER\
+I don't lie.  I have dug the grave, \
+and so therefore it is mine.\
+\
+        HAMLET\
+What man do you dig it for?\
+\
+        GRAVEDIGGER\
+For no man, sir.\
+\
+        HAMLET\
+What woman then?\
+\
+        GRAVEDIGGER\
+For none neither.\
+\
+        HAMLET\
+Then who is to be buried in it?\
+\
+        GRAVEDIGGER\
+One that was a woman, sir; but rest \
+her soul, she's dead.\
+\
+        HAMLET\
+I think you'd better dig some \
+graves for these jokes.  How long \
+have you been a gravedigger?\
+\
+        GRAVEDIGGER\
+I started this occupation the day \
+our late King Hamlet overcame old \
+Fortinbras.  That was the day \
+Prince Hamlet was born.\
+\
+\
+The Gravedigger continues digging the grave.  He \
+comes upon a skull, and tosses it out of the \
+grave.\
+\
+\
+        GRAVEDIGGER\
+This graveyard's getting crowded.  \
+This skull has been in the earth a \
+long time.\
+\
+        HAMLET\
+Whose was it?\
+\
+        GRAVEDIGGER\
+That was Yorick's skull, the King's \
+jester.\
+\
+\
+Hamlet picks up the skull and looks at it sadly.  \
+He speaks somberly.  In fact, this is the only \
+time in the entire play when Hamlet is completely \
+and genuinely serious.\
+\
+\
+        HAMLET\
+Alas, poor Yorick!  I knew him, \
+Horatio.  A funny little man with a \
+derby hat and a bamboo cane.  He \
+wore a jacket that was too small \
+and shoes that were too large.  He \
+used to walk a splayfooted walk, \
+all the while twirling his cane.  \
+And he had a tiny little mustache \
+which he used to twitch back and \
+forth when he was upset.  He was a \
+funny little man.  And the last \
+time I saw him, he was a pink-\
+faced, white-haired old man who \
+kept patting my hand and saying, \
+"Keep warm.  Keep warm."  It \
+doesn't seem fair that the \
+comedians should have to die, just \
+like everyone else.\
+\
+\
+Suddenly Hamlet is no longer serious.\
+\
+\
+        HAMLET\
+Oh well.\
+\
+\
+He casually tosses the skull over his shoulder and \
+kicks it away (just as Yorick would have done).  \
+Hamlet hears people approaching from off stage.\
+\
+\
+        HAMLET\
+But soft!  Here comes the King, the \
+Queen, and the courtiers.  Let's \
+hide and see what's going on.\
+\
+\
+Hamlet and Horatio hide behind some gravestones.  \
+Enter the King, Queen, Laertes and COURTIERS.  \
+They carry the body of Ophelia wrapped in a \
+shroud.  The body remains covered by the shroud \
+throughout the entire scene, so we never actually \
+see the body of Ophelia.\
+\
+\
+        LAERTES\
+Lay my sister's body in the earth, \
+and from her fair and unpolluted \
+flesh may violets spring!\
+\
+\
+The body of Ophelia is gently placed in the grave.\
+\
+\
+        HAMLET\
+What?  Is that Ophelia?\
+\
+        QUEEN\
+Farewell, Ophelia.  I had hoped you \
+would have been my Hamlet's bride.  \
+I thought to have decked your \
+bridal bed with flowers, instead of \
+thy grave.\
+\
+        LAERTES\
+Speak not the hated name of Hamlet!  \
+His wicked deed has caused her \
+death!\
+\
+\
+The Gravedigger prepares to shovel dirt into the \
+grave.\
+\
+\
+        LAERTES\
+Wait!  Hold off the earth awhile, \
+till I have caught her once more in \
+my arms.\
+\
+\
+Laertes climbs down into the grave.\
+\
+\
+        LAERTES\
+Oh heaven, I would give up my \
+newly-granted claim of succession \
+to the throne, to be buried with \
+her now.\
+\
+\
+Hamlet springs up from his hiding place.\
+\
+\
+        HAMLET\
+Hey!  Get out of that grave!  If \
+anyone has a right to give up the \
+throne to be buried with her, it is \
+I, Hamlet the Dane!\
+\
+\
+Hamlet leaps into the grave.  There is a horrible \
+crunching sound as he lands, and perhaps a moan \
+from Ophelia.\
+\
+\
+        LAERTES\
+Get off my sister!  You just jumped \
+onto my sister!\
+\
+\
+Laertes pushes Hamlet off of the body of Ophelia.\
+\
+\
+        LAERTES\
+Ophelia!\
+\
+\
+Laertes grabs the body.  Hamlet tries to pull it \
+away, banging the body against the sides of the \
+grave.  There are faint muffled cries coming from \
+the shroud, but no one notices them.\
+\
+\
+        HAMLET\
+Give her back!\
+\
+\
+Laertes and Hamlet have a vicious tug-of-war with \
+the body.  Suddenly, Hamlet lets go, and the body \
+slams into the side of the grave with a sickening \
+thud.\
+\
+\
+        HAMLET\
+OK!  OK, I can tell when I'm not \
+welcome.\
+\
+\
+Hamlet climbs out of the grave and exits.  Laertes \
+peeks inside the shroud and shudders.  He angrily \
+turns to the gravedigger.\
+\
+\
+        LAERTES\
+You might as well go ahead and bury \
+her now!  She's dead.\
+\
+\
+Laertes exits sadly.\
+\
+\
+        KING\
+Gertrude, we must set some watch \
+over your son!\
+\
+\
+Exeunt.\
+\
+\
+\
+**************************************************\
+\
+\
+\
+Scene II\
+\
+\
+Scene II takes place in a hall in the castle.  \
+Enter Hamlet and Horatio.\
+\
+\
+        HAMLET\
+So much for this.  You do remember \
+all the circumstance?\
+\
+        HORATIO\
+Sure.  Your father, he's a ghost, \
+so you go crazy.  Then you put on a \
+play, but your uncle doesn't like \
+it, so you kill Polonius.  His \
+daughter Ophelia wants to marry \
+you, but you go to England with \
+Rosencrantz and Guildenstern, so \
+she drowns herself.\
+\
+        HAMLET\
+Is that what's been happening?  I \
+certainly am lucky to have you \
+around to explain these things to \
+me.  Anyway, let me tell you what \
+happened to me on the voyage to \
+England.  The first night on the \
+ship I couldn't sleep, so I decided \
+to get something to read.  What I \
+decided to get was the commission \
+which Claudius had given to \
+Rosencrantz and Guildenstern.  I \
+snuck into their cabin and took the \
+commission.  It wasn't very \
+interesting until I got to the part \
+that said that for the good of \
+England and of Denmark, and for the \
+peace that stands between them, \
+without delay, Prince Hamlet's head \
+should be cut off!!!\
+\
+        HORATIO\
+Was that the most interesting part?\
+\
+        HAMLET\
+I thought so.  Didn't you think it \
+was interesting?\
+\
+\
+Horatio is undecided.\
+\
+\
+        HORATIO\
+Well ...\
+\
+        HAMLET\
+I know the writing was a little \
+flat, so I decided to make a few \
+revisions.  I rewrote the \
+commission so that it said that for \
+the good of England and of Denmark, \
+and for the peace that stands \
+between them, without delay, Hamlet \
+should be given lots of money and \
+beautiful naked women.\
+\
+\
+Hamlet smiles proudly at Horatio.\
+\
+\
+        HAMLET\
+Don't you think that's better?\
+\
+        HORATIO\
+Why didn't you say Horatio should \
+get the money and women?  Then \
+you'd have something!\
+\
+        HAMLET\
+You mean you'd have something!  I \
+put the commission back in \
+Rosencrantz's and Guildenstern's \
+cabin.  Unfortunately, the next day \
+we were attacked by pirates, and I \
+never got to England.  Oh, I almost \
+forgot, ...  I did make one other \
+small change in the commission, \
+it's hardly worth mentioning, \
+really.\
+\
+        HORATIO\
+What was that?\
+\
+        HAMLET\
+I told the English King to have \
+Rosencrantz and Guildenstern put to \
+death.\
+\
+\
+Horatio looks accusingly at Hamlet, who looks a \
+little embarrassed.\
+\
+\
+        HAMLET\
+Well, they deserved it, spying on \
+me for Claudius!  Anyway, this kind \
+of thing suits them.  I can just \
+imagine their reaction when they \
+find out what the commission says.  \
+I can see them in my mind's eye....\
+\
+\
+Enter Rosencrantz and Guildenstern with the \
+English EXECUTIONER.\
+\
+\
+        ROSENCRANTZ\
+Well, Guildenstern, here's another \
+fine mess you've gotten me into.\
+\
+\
+Guildenstern starts weeping.  He tries to speak \
+through his tears.\
+\
+\
+        GUILDENSTERN\
+But I didn't do anything!  I....\
+\
+\
+The English Executioner leads them off stage.\
+\
+\
+        HORATIO\
+Hey, who's that coming?\
+\
+        HAMLET\
+Oh, that's just Osric, the \
+courtier.\
+\
+\
+Enter OSRIC, a young courtier.\
+\
+\
+        OSRIC\
+Your lordship is welcome back to \
+Denmark.  I bring word from the \
+King.  He proposes to place a wager \
+on a friendly, sporting duel \
+between yourself and young Laertes.  \
+The King shall wager that in a \
+dozen passes of the sword, Laertes \
+shall not exceed you by three hits.\
+\
+        HORATIO\
+Hey, that's good!  That sounds like \
+fun.\
+\
+        HAMLET\
+You think so?  All right, tell the \
+King I'll do it, any time he's \
+ready.\
+\
+        OSRIC\
+I shall tell him, my lord.\
+\
+\
+Exit Osric.  Horatio also exits, and Hamlet calls \
+out after him.\
+\
+        HAMLET\
+Hey, where are you going?\
+\
+        HORATIO\
+To place a bet against you.\
+\
+\
+Exit Horatio.\
+\
+\
+        HAMLET\
+It's nice to have the confidence of \
+your friends.  There's something \
+that bothers me about this duel.  \
+My stepfather, who's already tried \
+to kill me once, has set up a \
+fencing match with Laertes, who \
+also hates me.  But Horatio seems \
+to think the match is a good idea, \
+which means I must be crazy to \
+agree to it!  But what will come \
+will come.  The readiness is all.  \
+And I don't think I'm ready yet!!!\
+\
+\
+Enter the King, Queen, Laertes, Osric and various \
+other Courtiers and Attendants.  A moment later \
+Horatio enters, having placed his bet.\
+\
+        KING\
+Come, Hamlet, come and take this \
+hand from me.\
+\
+\
+The King gives Laertes' hand to Hamlet.  They \
+shake hands.\
+\
+\
+        HAMLET\
+Laertes, I want you to know that \
+I'm sorry I killed your father and \
+caused the death of your sister, \
+but I'll forgive and forget if you \
+will.\
+\
+        LAERTES\
+(coldly)\
+I am satisfied.\
+\
+        HAMLET\
+Then let's play the match.  Give us \
+the foils.\
+\
+        KING\
+Give them the foils, young Osric.\
+\
+\
+Osric brings Hamlet and Laertes two identical, \
+bated fencing foils.  Laertes and Hamlet each take \
+one.\
+\
+\
+        LAERTES\
+This is too heavy for me.  Let me \
+see another.\
+\
+\
+Osric takes Laertes' foil, and goes off stage to \
+get another one.\
+\
+\
+        HAMLET\
+This one seems OK.\
+\
+\
+Osric re-enters with a huge unbated sword for \
+Laertes.  It is much larger than Hamlet's sword.  \
+Laertes takes the giant, deadly sword and takes a \
+practice lunge.\
+\
+\
+        LAERTES\
+Yes, that's better.\
+\
+        HAMLET\
+Say, are these weapons all of the \
+same length?\
+\
+        OSRIC\
+Of course, my lord.\
+\
+        HAMLET\
+I just wanted to make sure mine \
+wasn't longer.  I'd hate to have an \
+unfair advantage.\
+\
+        KING\
+Very well.  Let the match begin!\
+\
+\
+Hamlet and Laertes fence.  Hamlet is fairly fast \
+and agile, and his footwork is unique.  He manages \
+to avoid being hit by Laertes' sword.\
+\
+\
+        HAMLET\
+You know, Laertes, you should play \
+Horatio sometime.  He's an expert \
+on fencing.  He'll fence anything \
+he can get his hands on.\
+\
+\
+Hamlet manages to hit Laertes.\
+\
+\
+        HAMLET\
+One!\
+\
+        LAERTES\
+No.\
+\
+        HAMLET\
+Judgment?\
+\
+        OSRIC\
+A hit, a very palpable hit.\
+\
+\
+The King offers Hamlet the poisoned chalice of \
+wine.\
+\
+\
+        KING\
+Congratulations, Hamlet.  Here is a \
+chalice of wine for your \
+refreshment.\
+\
+        HAMLET\
+Nice try, Claudius, but it won't \
+work.\
+\
+        KING\
+What do you mean, Hamlet?\
+\
+        HAMLET\
+I know what you're up to, trying to \
+get me drunk!  I'm staying sober \
+for this match!\
+\
+\
+Hamlet and Laertes fence.  Hamlet scores another \
+hit.\
+\
+\
+        HAMLET\
+Another hit!  What say you?\
+\
+        LAERTES\
+A touch, a touch, I do confess it.\
+\
+\
+The Queen takes the poisoned chalice.\
+\
+\
+        QUEEN\
+I drink to thy good fortune, \
+Hamlet.\
+\
+        KING\
+Gertrude, do not drink!\
+\
+        QUEEN\
+I will, my lord; I pray you pardon \
+me.\
+\
+\
+She drinks.  The King speaks quietly to himself.\
+\
+\
+        KING\
+It is the poisoned cup; it is too \
+late.\
+\
+        HAMLET\
+Come, Laertes.\
+\
+\
+They fence for a while, but no one is hit.  They \
+pause.\
+\
+\
+        OSRIC\
+Nothing ether way.\
+\
+        LAERTES\
+Have at you now!\
+\
+\
+Suddenly, Laertes stabs at Hamlet before the match \
+has started again.  Hamlet is scratched by the \
+envenomed sword.\
+\
+\
+        HAMLET\
+That was an unthrustworthy attack!\
+\
+\
+They start to fence again in earnest.  Laertes \
+drops his sword.  Hamlet exchanges swords with \
+him.  Hamlet wounds Laertes.  Suddenly, the Queen \
+falls.\
+\
+\
+        OSRIC\
+Look to the Queen!\
+\
+        KING\
+She swoons to see them bleed.\
+\
+        QUEEN\
+No, no, the drink, the drink, -- \
+Oh, my dear Hamlet, -- the drink, \
+the drink --\
+\
+\
+Hamlet picks up the chalice and offers it to her.\
+\
+\
+        HAMLET\
+You want a drink?\
+\
+        QUEEN\
+I am poisoned!\
+\
+\
+She dies.\
+\
+\
+        HAMLET\
+What???\
+\
+\
+Laertes falls.\
+\
+\
+        LAERTES\
+Hamlet, thou art slain.\
+\
+        HAMLET\
+Don't be ridiculous!  This is a \
+comedy!\
+\
+        LAERTES\
+Thou art slain!  The treacherous \
+instrument is in thy hand, unbated \
+and envenomed.  Thy mother's \
+poisoned.  The King, the King's to \
+blame!\
+\
+\
+Hamlet is furious.  He turns to face Claudius.\
+\
+\
+        HAMLET\
+Thou incestuous, murderous, damned \
+Dane, I'll kill you now!!!\
+\
+\
+However, before Hamlet can act, he starts thinking \
+again.\
+\
+\
+        HAMLET\
+But which shall I use, the \
+envenomed sword or the poisoned \
+drink?  The sword would be more \
+bloody and more certain, but it \
+would seem too like an honorable \
+soldier's death.  The poison is a \
+more ignominious end, but there is \
+little left, and how can I be sure \
+he'd drink it down.  On the other \
+hand, maybe I shouldn't kill him at \
+all, now that his treachery is \
+known to all, but let him live on \
+in disgrace, until the people do \
+....\
+\
+\
+Everyone who is still alive yells at Hamlet.\
+\
+\
+        ALL\
+Kill him already!  Make up your \
+mind and kill him!!!\
+\
+        HAMLET\
+Oh, what the hell!\
+\
+\
+Hamlet stabs Claudius with the envenomed sword, \
+and at the same time pours the poisoned drink down \
+his throat.  Claudius dies.\
+\
+\
+        LAERTES\
+He is justly served.  Exchange \
+forgiveness with me, noble Hamlet!  \
+I blame you not for mine and my \
+father's death.  Blame me not for \
+thine!\
+\
+\
+Laertes dies.  Hamlet collapses, and Horatio goes \
+to him.\
+\
+\
+        HAMLET\
+I am dying, Horatio.  I'd always \
+hoped the ending would be funnier \
+than this.\
+\
+        HORATIO\
+You want me to tell some jokes?\
+\
+        HAMLET\
+I didn't think I'd die, as long as \
+I kept this a comedy.  Maybe \
+killing Rosencrantz and \
+Guildenstern wasn't such a funny \
+idea after all.  Horatio, how is it \
+that you're the only major \
+character to survive?  The only one \
+in the entire play?\
+\
+        HORATIO\
+It's funny you should ask.  I \
+didn't think I was gonna live.  In \
+fact, I was so sure I was gonna \
+die, I bet this guy named Will \
+Shakespeare 200 kroner that I'd die \
+before the play was over, and what \
+do you think happens?  I lose the \
+bet!  Just my luck, huh?\
+\
+        HAMLET\
+The rest is silence.\
+\
+\
+Hamlet dies.  The sound of military drums comes \
+from off stage.\
+\
+\
+        HORATIO\
+Hey, what's that noise?\
+\
+\
+Osric runs off stage to find out.  He returns.\
+\
+\
+        OSRIC\
+Young Fortinbras, with conquest \
+comes from Poland.\
+\
+\
+Enter YOUNG FORTINBRAS and some of his soldiers.  \
+Young Fortinbras has a ski-slope shaped nose, and \
+speaks with rapid-fire delivery.\
+\
+\
+        FORTINBRAS\
+Hi, this is Young "Happy To Be Back In Denmark" \
+Fortinbras, and I gotta tell you, I thought I'd \
+seen bloodshed in Poland, but this is ridiculous.  \
+I was going to give the Danish court a twenty-one \
+gun salute, but it looks like someone beat me to \
+it.  You know, a funny thing happened on the way \
+to the castle.  I ran into the English Ambassador, \
+and he told me that Rosencrantz and Guildenstern \
+are dead.  I said, "Who isn't?"  But I love \
+Elsinore, it's gotta be the only place on Earth\
+where they built a moat to protect the people \
+outside from the violence inside the castle.  But \
+seriously, folks, such a sight as this becomes the \
+field, but here shows much amiss.  Go bid the \
+soldiers shoot.  \
+\
+\
+Exeunt, bearing off the dead bodies; after which a \
+peal of ordinance is shot off.\
+\
+\
+\
+**************************************************\
+\
+\
+\
+\
+THE END\
+\
+\
+copyright 1995 by Richard Nathan\
+\
+\
+\
+You can sent the author e-mail inquiries at:\
+\
+Richard-Nathan@worldnet.att.net.\
+\
+or at:  SWSS18A@prodigy.com\
+
+\par }
+ 

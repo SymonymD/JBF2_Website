@@ -1,0 +1,45 @@
+<HTML>
+<TITLE>Days Since Last Update</TITLE>
+<BODY BGCOLOR="#FFFFFF">
+<A HREF="jv_main.html"><IMG SRC="java.gif" ALT="Back to JS main page" width=33 height=33 border=0></A><P>
+BY:<a href="mailto:bvh10000@hotmail.com">Bart Van Hemelen</a>...<a href="http://www.geocities.com/~tenthousand/">Homepage</a><br>
+DATE:1997-12-25<BR>
+<hr>
+
+<script language=JavaScript>
+<!-- Hide
+/* This JavaScript is composed by Bart Van Hemelen.
+* You can contact him at bvh10000@hotmail.com
+* or via this website http://www.geocities.com/~tenthousand/ .
+* If you like this code so much you want to use it on your website,
+* you can -- as long as you include this copyright notice.
+*/
+
+// Array of day names
+var dayNames = new
+Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+
+// Array of month names
+var monthNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+
+today = new Date()
+lastmod = new Date(document.lastModified)
+diffdays = Math.ceil( (today.getTime()-
+lastmod.getTime())/(24*60*60*1000) )
+var then = new Date(document.lastModified);
+document.writeln("This page was updated on "+ dayNames[then.getDay()] + " " + then.getDate() + " " + monthNames[then.getMonth()] + " 19" + then.getYear() + ", just " + diffdays + " days ago.")
+// Unhide -->
+</script>
+
+<hr>
+If you want this script just choose "Save Frame As..." (in Netscape) when you have the focus on the frame.<p>
+<I>URL: http://www.geocities.com/SiliconValley/7116/jv_udday.html</I>
+<hr>
+<center>
+<b>
+This page hosted by 
+<a href="/"></a> 
+Get your own <a href="/">Free Home Page</a></b></center>
+
+</BODY>
+</HTML>

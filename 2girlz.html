@@ -1,0 +1,53 @@
+script language="JavaScript">
+
+<!-- Hide the script from old browsers --
+
+
+
+// Michael P. Scholtis (mpscho@planetx.bloomu.edu)
+
+// All rights reserved. July 21, 1996
+
+// You may use this JavaScript example as you see fit, as long as the
+
+// information within this comment above is included in your script.
+
+ 
+
+
+
+function surfto(form) {
+
+        var myindex=form.dest.selectedIndex
+
+        location=form.dest.options[myindex].value;
+
+
+
+}
+
+//-->
+
+</SCRIPT><br>
+
+<CENTER>
+
+<FORM NAME="myform">
+
+  <SELECT NAME="dest" SIZE=1>
+
+    <OPTION SELECTED VALUE="">---------- Quick Java Navigation Bar -----------
+
+    <OPTION VALUE="index.html">Home Page	
+
+    <OPTION VALUE=".html">
+
+
+
+  </SELECT>
+
+<P>
+
+<INPUT TYPE="BUTTON" VALUE="Select Above and Click Here" onClick="surfto(this.form)">
+
+</FORM>

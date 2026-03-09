@@ -1,0 +1,165 @@
+<HTML>
+<HEAD>
+<TITLE>Comparative Loan Payment Calculator</TITLE>
+</HEAD>
+<BODY BACKGROUND="27.jpg" BGCOLOR="#0000FF" TEXT="#FFFF66" LINK="#FF0000" VLINK="#C0C0C0" >
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- hide this script tag's contents from old browsers
+
+function checkNumber(input, min, max, msg)
+{
+    msg = msg + " field has invalid data: " + input.value;
+
+    var str = input.value;
+    for (var i = 0; i < str.length; i++) {
+        var ch = str.substring(i, i + 1)
+        if ((ch < "0" || "9" < ch) && ch != '.') {
+            alert(msg);
+            return false;
+        }
+    }
+    var num = parseFloat(str)
+    if (num < min || max < num) {
+        alert(msg + " not in range [" + min + ".." + max + "]");
+        return false;
+    }
+    input.value = str;
+    return true;
+}
+
+function computeField(input)
+{
+    if (input.value != null && input.value.length != 0)
+	input.value = "" + eval(input.value);
+    computeForm(input.form);
+}
+
+function computeForm(form)
+{
+    if ((form.payments.value == null || form.payments.value.length == 0) ||
+        (form.interest.value == null || form.interest.value.length == 0) ||
+        (form.principal.value == null || form.principal.value.length == 0)) {
+        return;
+    }
+
+    if (!checkNumber(form.payments, 1, 480, "# of payments") ||
+        !checkNumber(form.interest, .001, 99, "Interest") ||
+        !checkNumber(form.principal, 100, 10000000, "Principal")) {
+        form.payment.value = "Invalid";
+        return;
+    }
+
+    var i = form.interest.value;
+    if (i > 1.0) {
+        i = i / 100.0;
+        form.interest.value = i;
+    }
+    i /= 12;
+
+    var pow = 1;
+    for (var j = 0; j < form.payments.value; j++)
+        pow = pow * (1 + i);
+    form.payment.value = (form.principal.value * pow * i) / (pow - 1)
+}
+
+function clearForm(form)
+{
+    form.payments.value = "";
+    form.interest.value = "";
+    form.principal.value = "";
+}
+
+<!-- done hiding from old browsers -->
+
+</SCRIPT>
+<center>
+<H1><I><B>Comparative Loan Payment Calculator</B></I></H1><BR>
+<H3><I><B>JavaScript Example from Netscape</B></I></H3><BR>
+<P>
+</center>
+<FONT SIZE="3">
+
+In this JavaScript example, you can find out just how much that new house is going to cost you each month. Enter values in the fields below to find out how much each monthly payment would be with the given number of payments, interest rate, and amount of the loan.
+
+<BR><BR>
+
+
+<CENTER>
+
+<FORM method=POST>
+
+<TABLE border>
+<TR>
+<TD><DIV ALIGN="CENTER">  # of<br>Payments</DIV></TD>
+<TD><DIV ALIGN="CENTER">Interest<br>Rate</DIV></TD>
+<TD><DIV ALIGN="CENTER">Principal</DIV></TD>
+<TD> </TD>
+<TD><DIV ALIGN="CENTER"> Monthly<br> Payment</DIV></TD>
+</TR>
+<TR>
+<TD><INPUT TYPE=TEXT NAME=payments  SIZE=5 onChange=computeField(this)> </TD>
+<TD><INPUT TYPE=TEXT NAME=interest  SIZE=6 onChange=computeField(this)> </TD>
+<TD><INPUT TYPE=TEXT NAME=principal SIZE=9 onChange=computeField(this)> </TD>
+<TD> </TD>
+<TD><INPUT TYPE=TEXT NAME=payment   SIZE=9 onChange=computeField(this)> </TD>
+<TD><INPUT TYPE="button" VALUE="Compute"   onClick=computeForm(this.form)> </TD>
+<TD><INPUT TYPE="reset"  VALUE="Reset"     onClick=clearForm(this.form)> </TD>
+</TR>
+
+</FORM>
+
+<FORM method=POST>
+
+<TR>
+<TD><INPUT TYPE=TEXT NAME=payments  SIZE=5 onChange=computeField(this)> </TD>
+<TD><INPUT TYPE=TEXT NAME=interest  SIZE=6 onChange=computeField(this)> </TD>
+<TD><INPUT TYPE=TEXT NAME=principal SIZE=9 onChange=computeField(this)> </TD>
+<TD> </TD>
+<TD><INPUT TYPE=TEXT NAME=payment   SIZE=9 onChange=computeField(this)> </TD>
+<TD><INPUT TYPE="button" VALUE="Compute"   onClick=computeForm(this.form)> </TD>
+<TD><INPUT TYPE="reset"  VALUE="Reset"     onClick=clearForm(this.form)> </TD>
+</TR>
+
+</FORM>
+
+<FORM method=POST>
+
+<TR>
+<TD><INPUT TYPE=TEXT NAME=payments  SIZE=5 onChange=computeField(this)> </TD>
+<TD><INPUT TYPE=TEXT NAME=interest  SIZE=6 onChange=computeField(this)> </TD>
+<TD><INPUT TYPE=TEXT NAME=principal SIZE=9 onChange=computeField(this)> </TD>
+<TD> </TD>
+<TD><INPUT TYPE=TEXT NAME=payment   SIZE=9 onChange=computeField(this)> </TD>
+<TD><INPUT TYPE="button" VALUE="Compute"   onClick=computeForm(this.form)> </TD>
+<TD><INPUT TYPE="reset"  VALUE="Reset"     onClick=clearForm(this.form)> </TD>
+</TR>
+</TABLE>
+
+</FORM>
+
+
+<FONT SIZE="3">
+
+ NOTE: Do Not Use Commas When Inserting Principal Amounts.
+
+</FONT>
+</CENTER>
+<P>
+<hr width="80%">
+<P>
+<center>
+<A HREF = "re.html"><IMG SRC="ct_re.gif" width="300" height="44" align="middle" border="0" alt="Real Estate"></A><a href="index.html"><img src="ret2top.gif" width="300" height="44" align="middle" border="0"></a>
+<P>
+<hr width="80%">
+<P>
+<HR WIDTH="80%">
+<BR>
+
+<P>
+</center>
+</BODY>
+</HTML>
+
+
+

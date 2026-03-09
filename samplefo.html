@@ -1,0 +1,122 @@
+<HTML>
+<HEAD>
+<TITLE>GeoCities Mail Script Form Example</TITLE>
+</HEAD>
+<BODY>
+<h3>GeoCities Mail Script Form Example #2 - <i>Sample Comments Form</i></h3>
+<hr>
+Here is a sample form that you may freely use on your GeoCities home page.  
+This is intended to show you one example of how you can develop a form to 
+include on your home page.  To change the questions or answers, simply 
+change the text associated with the question.  If you have general questions 
+about forms, please visit the 
+<a href="http://www.ncsa.uiuc.edu/SDG/Software/Mosaic/Docs/fill-out-forms/overview.html">
+NCSA site</a> for a detailed tutorial.
+<hr>
+<b>These are the items that can be changed to customize your survey:</b>
+<ol>
+	<li> The questions and answers.
+	<li> The type of input received (radio buttons, checkboxes, textareas, ...)
+	<li> The "subject" of the form passed as a "hidden" value (see the source 
+		code for further explanation).
+	<li> The page displayed to the user after the "submit" button is pressed. 
+		(Again, see the source code.)
+</ol>
+<hr>
+<dl><dt><b>NOTE:</b>
+<dd>To copy the source code for this page to your hard drive, choose 
+"save" or "save as" from the "File" menu, and choose a location and name 
+for the file.  You can then use any editor (such as Notepad or Microsoft Word) 
+to view the contents, and then simply "copy" and "paste" the appropriate 
+portions of the file into your HTML document. Make the appropriate changes to 
+the questions and your form is all set to go.<p>
+</dl>
+<hr>
+
+                   <!--This is the beginning of the form.-->
+         <!--  Copy everything from here to the spot marked "end".-->
+  <!-- Make sure that you use your member name in place of "testform" below. -->
+
+<h3>Please give me your opinion!</h3>
+<FORM METHOD=POST ACTION="/cgi-bin/homestead/mail.pl?testform">
+Please tell me your name:<INPUT TYPE="TEXT" NAME="NAME" SIZE=30,1 MAXLENGTH=30> (Do not 
+hit return)
+<p>
+<dl>
+<dt>
+1) Please provide your comments about my page<p>
+<TEXTAREA NAME="comments" ROWS=12 COLS=55></TEXTAREA>
+<p>
+<dt>
+2) What Neighborhood do you think I should live in, based on my page content?<p>
+<SELECT NAME="Proper_Neighborhood">
+              <OPTION selected> You are already in the right one
+              <OPTION> Athens
+              <OPTION> BourbonStreet
+              <OPTION> Broadway
+              <OPTION> CapeCanaveral
+              <OPTION> CapitolHill
+              <OPTION> Colosseum
+              <OPTION> Heartland
+              <OPTION> Hollywood
+              <OPTION> HotSprings
+              <OPTION> MotorCity
+              <OPTION> NapaValley
+              <OPTION> Paris
+              <OPTION> RainForest
+              <OPTION> RodeoDrive
+              <OPTION> SoHo
+              <OPTION> SiliconValley
+              <OPTION> SunsetStrip
+              <OPTION> TheTropics
+              <OPTION> TimesSquare
+              <OPTION> Tokyo
+              <OPTION> Vienna
+              <OPTION> WallStreet
+              <OPTION> WestHollywood 
+              <OPTION> Yosemite </SELECT>
+
+</dl>
+<p>
+<INPUT TYPE="SUBMIT" VALUE="SEND"> <INPUT TYPE="RESET" VALUE="CLEAR">
+
+<P>
+     <!--  This is where you spcify the subject of the form. -->
+ <!--  It won't appear as the subject of the E-mail you receive, -->
+         <!--  but will appear in the body of the message.  -->
+              <!--  See the return E-mail example below. -->
+
+<INPUT TYPE="hidden" NAME="subject" VALUE="Home Page Comments">
+
+      <!-- This is where you can specify the page that is shown after the user -->
+ <!-- presses the "submit" button.  For this example, it's called "next_page2.html" -->
+<!-- If you choose not to specify a page here, then you should omit the entire line, and -->
+<!-- the user will get a default message showing them what their E-mail will look like. -->
+<!-- Be sure to include the proper path to the page.   Since the page will reside in -->
+        <!--  your own directory, the correct path will be "/Neighborhood/Address/filename.html".-->
+ <!-- For example, if you live at Hollywood 1000, and your file is called nextpage.html, you should -->
+             <!-- refer to it as:  VALUE="/Hollywood/1000/nextpage.html"  -->
+
+<INPUT TYPE="hidden" NAME="next-url" VALUE="/cgi-bin/main/homestead/next_page2.html">
+</FORM>
+
+        <!-- This is the "end".  Copy everything above here.-->
+<hr>
+
+This basic example of a form will send the member an E-mail with the following format:
+<p>
+<blockquote><pre>
+(NAME)  GeoCities User
+(comments)
+---------------------------------------------------------------------------
+You have a great page.  
+Can you add more graphics?  I would like to see a map 
+of your home town, also.
+---------------------------------------------------------------------------
+(Proper_Neighborhood)  Heartland
+(subject)  Home Page Comments
+(next-url)  /cgi-bin/main/homestead/next_page2.html
+
+</pre>
+</blockquote>
+where the values change according to what the users choose as their answers.

@@ -1,0 +1,37 @@
+:BASE FreeSolitaire.hlp
+:TITLE Free Solitaire Help
+1 Introduction=Introduction
+1 System Requirements=System_Requireme
+1 Free Solitaire License=Free_Solitaire_License
+1 Aureate License Agreement=Aureate_License_Agreement
+1 Features
+2 Context-sensitive popup menus=Context_sensitiv
+2 Autoplay to foundations=Autoplay_to_foun
+2 Game preferences=Game_preferences
+2 Common shortcuts for all games=Common_shortcuts
+2 Smart-dragging=Smart-dragging
+2 Single-user statistics=Single-UserStatistics
+1 How do I...?
+2 Undo a move or an autoplay=Undo_a_move
+2 Move a card to a foundation=Move_a_card_to_a
+2 Start a new game=Start_a_new_game
+2 Restart a game=Restart_a_game
+2 Change the card back=Change_the_card
+2 Change the size of the cards=Change_the_size
+2 Enable/disable sounds=Enable/disable_s
+2 Turn on/off animation during deals=Turn_on/off_anim
+1 Game rules
+2 Double Klondike=Double_Klondike
+2 Forty Thieves=IDH_1
+2 Free Cell=IDH_2
+2 Golf=Golf
+2 Indian Patience=Indian_Patience
+2 Klondike=Klondike
+2 Montana=Montana
+2 Pyramid=Pyramid
+2 Sea Towers=SeaHaven_Towers
+2 Spider=Spider
+1 Support
+2 Frequently Asked Questions=Frequently_Asked
+2 Contacts=Technical_Suppor
+1 Credits=Credits
