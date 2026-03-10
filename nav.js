@@ -196,6 +196,7 @@
   // Added by family section
   var sec0 = section('Added by Family');
   sec0.appendChild(link('history.html', 'Family History'));
+  sec0.appendChild(link('photos.html', 'Family Photos'));
   panel.appendChild(sec0);
 
   panel.appendChild(divider());

@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Family Photos</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background-color: #04041a;
+      color: #d4c9a8;
+      font-family: Georgia, 'Times New Roman', serif;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      text-align: center;
+      padding: 60px 20px 40px;
+      border-bottom: 1px solid rgba(255,215,0,0.12);
+      margin-bottom: 48px;
+    }
+    .hero .eyebrow {
+      font-size: 0.72em;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: rgba(255,215,0,0.5);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      margin-bottom: 14px;
+    }
+    .hero h1 {
+      font-size: 2.2em;
+      color: #FFD700;
+      line-height: 1.2;
+      margin-bottom: 10px;
+    }
+    .hero p {
+      font-size: 0.95em;
+      color: rgba(255,215,0,0.4);
+      font-style: italic;
+    }
+
+    /* ── Page wrap ── */
+    .page-wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 24px 100px;
+    }
+
+    /* ── Category nav pills ── */
+    .cat-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 48px;
+      justify-content: center;
+    }
+    .cat-pill {
+      background: transparent;
+      border: 1px solid rgba(255,215,0,0.25);
+      color: rgba(255,215,0,0.6);
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 0.8em;
+      letter-spacing: 0.06em;
+      cursor: pointer;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      transition: all 0.15s;
+      text-decoration: none;
+    }
+    .cat-pill:hover, .cat-pill.active {
+      background: rgba(255,215,0,0.1);
+      border-color: #FFD700;
+      color: #FFD700;
+    }
+
+    /* ── Section heading ── */
+    .cat-section {
+      margin-bottom: 56px;
+    }
+    .cat-heading {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 20px;
+    }
+    .cat-heading h2 {
+      font-size: 1.1em;
+      color: #FFD700;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+    }
+    .cat-heading .cat-count {
+      font-size: 0.72em;
+      color: rgba(255,215,0,0.35);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+    .cat-heading::after {
+      content: '';
+      flex: 1;
+      border-top: 1px solid rgba(255,215,0,0.1);
+    }
+
+    /* ── Photo grid ── */
+    .photo-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 10px;
+    }
+    .photo-item {
+      position: relative;
+      overflow: hidden;
+      border-radius: 6px;
+      border: 1px solid rgba(255,215,0,0.08);
+      cursor: pointer;
+      background: #0a0a2e;
+      aspect-ratio: 4/3;
+    }
+    .photo-item img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.3s, filter 0.3s;
+      filter: brightness(0.88);
+    }
+    .photo-item:hover img {
+      transform: scale(1.04);
+      filter: brightness(1);
+    }
+    .photo-item .caption {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 20px 10px 8px;
+      font-size: 0.72em;
+      color: rgba(255,255,255,0.75);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: linear-gradient(to top, rgba(0,0,0,0.65), transparent);
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+    .photo-item:hover .caption {
+      opacity: 1;
+    }
+
+    /* ── Lightbox ── */
+    #lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.94);
+      z-index: 20000;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    #lightbox.open { display: flex; }
+    #lightbox img {
+      max-width: 100%;
+      max-height: 85vh;
+      object-fit: contain;
+      border-radius: 4px;
+    }
+    #lightbox .lb-caption {
+      margin-top: 14px;
+      font-size: 0.85em;
+      color: rgba(255,255,255,0.45);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      text-align: center;
+    }
+    #lightbox .lb-close {
+      position: absolute;
+      top: 18px;
+      right: 22px;
+      background: none;
+      border: none;
+      color: rgba(255,255,255,0.4);
+      font-size: 1.8em;
+      cursor: pointer;
+      line-height: 1;
+      transition: color 0.15s;
+    }
+    #lightbox .lb-close:hover { color: #FFD700; }
+    #lightbox .lb-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(255,255,255,0.07);
+      border: none;
+      color: rgba(255,255,255,0.5);
+      font-size: 1.6em;
+      padding: 12px 16px;
+      cursor: pointer;
+      border-radius: 6px;
+      transition: background 0.15s, color 0.15s;
+    }
+    #lightbox .lb-nav:hover { background: rgba(255,215,0,0.12); color: #FFD700; }
+    #lightbox .lb-prev { left: 16px; }
+    #lightbox .lb-next { right: 16px; }
+
+    @media (max-width: 600px) {
+      .photo-grid { grid-template-columns: repeat(2, 1fr); gap: 6px; }
+      .hero h1 { font-size: 1.6em; }
+      #lightbox .lb-nav { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="eyebrow">Added by Family</div>
+  <h1>Family Photos</h1>
+  <p>Scanned from belongings found after his passing &mdash; captions to come</p>
+</div>
+
+<div class="page-wrap">
+
+  <!-- Category nav -->
+  <nav class="cat-nav">
+    <a class="cat-pill active" href="#all" onclick="filterCat('all',this)">All</a>
+    <a class="cat-pill" href="#12WashCircle" onclick="filterCat('12WashCircle',this)">12 Wash Circle</a>
+    <a class="cat-pill" href="#Cofiell" onclick="filterCat('Cofiell',this)">Cofiell</a>
+    <a class="cat-pill" href="#Fentners" onclick="filterCat('Fentners',this)">Fentners</a>
+    <a class="cat-pill" href="#Friends" onclick="filterCat('Friends',this)">Friends</a>
+    <a class="cat-pill" href="#JBF2" onclick="filterCat('JBF2',this)">JBF2</a>
+    <a class="cat-pill" href="#JBF3" onclick="filterCat('JBF3',this)">JBF3</a>
+    <a class="cat-pill" href="#Old_Timey" onclick="filterCat('Old_Timey',this)">Old Timey</a>
+    <a class="cat-pill" href="#Misc" onclick="filterCat('Misc',this)">Misc</a>
+  </nav>
+
+  <!-- Sections -->
+
+  <div class="cat-section" data-cat="12WashCircle">
+    <div class="cat-heading"><h2>12 Wash Circle</h2><span class="cat-count">12 photos</span></div>
+    <div class="photo-grid">
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/12wash1.jpeg','12 Wash Circle')"><img src="gallery-assets/12WashCircle/12wash1.jpeg" alt="" loading="lazy"><div class="caption">12wash1</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/12wash2.jpeg','12 Wash Circle')"><img src="gallery-assets/12WashCircle/12wash2.jpeg" alt="" loading="lazy"><div class="caption">12wash2</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/scan_3.jpeg','12 Wash Circle')"><img src="gallery-assets/12WashCircle/scan_3.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/lake1.jpeg','12 Wash Circle')"><img src="gallery-assets/12WashCircle/lake1.jpeg" alt="" loading="lazy"><div class="caption">Lake</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/lakeshot.jpeg','12 Wash Circle')"><img src="gallery-assets/12WashCircle/lakeshot.jpeg" alt="" loading="lazy"><div class="caption">Lake</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/lakestuff7.jpeg','12 Wash Circle')"><img src="gallery-assets/12WashCircle/lakestuff7.jpeg" alt="" loading="lazy"><div class="caption">Lake</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/4th_july.jpeg','4th of July')"><img src="gallery-assets/12WashCircle/4th_july.jpeg" alt="" loading="lazy"><div class="caption">4th of July</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/holiday1.jpeg','Holidays')"><img src="gallery-assets/12WashCircle/holiday1.jpeg" alt="" loading="lazy"><div class="caption">Holidays</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/40th_n_5.jpeg','40th')"><img src="gallery-assets/12WashCircle/40th_n_5.jpeg" alt="" loading="lazy"><div class="caption">40th</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/hammocktime.jpeg','Hammock time')"><img src="gallery-assets/12WashCircle/hammocktime.jpeg" alt="" loading="lazy"><div class="caption">Hammock time</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/og_barge1.jpeg','OG Barge')"><img src="gallery-assets/12WashCircle/og_barge1.jpeg" alt="" loading="lazy"><div class="caption">OG Barge</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/12WashCircle/og_barge2.jpeg','OG Barge')"><img src="gallery-assets/12WashCircle/og_barge2.jpeg" alt="" loading="lazy"><div class="caption">OG Barge</div></div>
+    </div>
+  </div>
+
+  <div class="cat-section" data-cat="Cofiell">
+    <div class="cat-heading"><h2>Cofiell</h2><span class="cat-count">12 photos</span></div>
+    <div class="photo-grid">
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/scan.jpeg','Cofiell')"><img src="gallery-assets/Cofiell/scan.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/jim.jpeg','Jim')"><img src="gallery-assets/Cofiell/jim.jpeg" alt="" loading="lazy"><div class="caption">Jim</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/jackie-sally.jpeg','Jackie & Sally')"><img src="gallery-assets/Cofiell/jackie-sally.jpeg" alt="" loading="lazy"><div class="caption">Jackie &amp; Sally</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/piratesally.jpeg','Pirate Sally')"><img src="gallery-assets/Cofiell/piratesally.jpeg" alt="" loading="lazy"><div class="caption">Pirate Sally</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/sally283.jpeg','Sally')"><img src="gallery-assets/Cofiell/sally283.jpeg" alt="" loading="lazy"><div class="caption">Sally</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/jill.jpeg','Jill')"><img src="gallery-assets/Cofiell/jill.jpeg" alt="" loading="lazy"><div class="caption">Jill</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/tracy.jpeg','Tracy')"><img src="gallery-assets/Cofiell/tracy.jpeg" alt="" loading="lazy"><div class="caption">Tracy</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/arthurc.jpeg','Arthur C.')"><img src="gallery-assets/Cofiell/arthurc.jpeg" alt="" loading="lazy"><div class="caption">Arthur C.</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/cofiell2.jpeg','Cofiell')"><img src="gallery-assets/Cofiell/cofiell2.jpeg" alt="" loading="lazy"><div class="caption">Cofiell</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/jtjb.jpeg','JT & JB')"><img src="gallery-assets/Cofiell/jtjb.jpeg" alt="" loading="lazy"><div class="caption">JT &amp; JB</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/damama.jpeg','Da Mama')"><img src="gallery-assets/Cofiell/damama.jpeg" alt="" loading="lazy"><div class="caption">Da Mama</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Cofiell/holidays2.jpeg','Holidays')"><img src="gallery-assets/Cofiell/holidays2.jpeg" alt="" loading="lazy"><div class="caption">Holidays</div></div>
+    </div>
+  </div>
+
+  <div class="cat-section" data-cat="Fentners">
+    <div class="cat-heading"><h2>Fentners</h2><span class="cat-count">11 photos</span></div>
+    <div class="photo-grid">
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/scan_3.jpeg','Fentners')"><img src="gallery-assets/Fentners/scan_3.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/1996_paul-sharon-wedding.jpeg','Paul & Sharon Wedding, 1996')"><img src="gallery-assets/Fentners/1996_paul-sharon-wedding.jpeg" alt="" loading="lazy"><div class="caption">Paul &amp; Sharon Wedding, 1996</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/1994_richard-darlene_wedding.jpeg','Richard & Darlene Wedding, 1994')"><img src="gallery-assets/Fentners/1994_richard-darlene_wedding.jpeg" alt="" loading="lazy"><div class="caption">Richard &amp; Darlene Wedding, 1994</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/bamf.jpeg','BAMF')"><img src="gallery-assets/Fentners/bamf.jpeg" alt="" loading="lazy"><div class="caption">BAMF</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/bamf_and_dog.jpeg','BAMF & dog')"><img src="gallery-assets/Fentners/bamf_and_dog.jpeg" alt="" loading="lazy"><div class="caption">BAMF &amp; dog</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/xmas1.jpeg','Christmas')"><img src="gallery-assets/Fentners/xmas1.jpeg" alt="" loading="lazy"><div class="caption">Christmas</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/kenny1.jpeg','Kenny')"><img src="gallery-assets/Fentners/kenny1.jpeg" alt="" loading="lazy"><div class="caption">Kenny</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/kenny2.jpeg','Kenny')"><img src="gallery-assets/Fentners/kenny2.jpeg" alt="" loading="lazy"><div class="caption">Kenny</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/nad_chels.jpeg','Nad & Chels')"><img src="gallery-assets/Fentners/nad_chels.jpeg" alt="" loading="lazy"><div class="caption">Nad &amp; Chels</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/golf.jpeg','Golf')"><img src="gallery-assets/Fentners/golf.jpeg" alt="" loading="lazy"><div class="caption">Golf</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Fentners/sweaters.jpeg','Sweaters')"><img src="gallery-assets/Fentners/sweaters.jpeg" alt="" loading="lazy"><div class="caption">Sweaters</div></div>
+    </div>
+  </div>
+
+  <div class="cat-section" data-cat="Friends">
+    <div class="cat-heading"><h2>Friends</h2><span class="cat-count">13 photos</span></div>
+    <div class="photo-grid">
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/carl1.jpeg','Carl')"><img src="gallery-assets/Friends/carl1.jpeg" alt="" loading="lazy"><div class="caption">Carl</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/carl2.jpeg','Carl')"><img src="gallery-assets/Friends/carl2.jpeg" alt="" loading="lazy"><div class="caption">Carl</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/carllorrie.jpeg','Carl & Lorrie')"><img src="gallery-assets/Friends/carllorrie.jpeg" alt="" loading="lazy"><div class="caption">Carl &amp; Lorrie</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/nonie.jpeg','Nonie')"><img src="gallery-assets/Friends/nonie.jpeg" alt="" loading="lazy"><div class="caption">Nonie</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/thegang.jpeg','The Gang')"><img src="gallery-assets/Friends/thegang.jpeg" alt="" loading="lazy"><div class="caption">The Gang</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/bigtom1.jpeg','Big Tom')"><img src="gallery-assets/Friends/bigtom1.jpeg" alt="" loading="lazy"><div class="caption">Big Tom</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/bigtom2.jpeg','Big Tom')"><img src="gallery-assets/Friends/bigtom2.jpeg" alt="" loading="lazy"><div class="caption">Big Tom</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/bigtom-4.jpeg','Big Tom')"><img src="gallery-assets/Friends/bigtom-4.jpeg" alt="" loading="lazy"><div class="caption">Big Tom</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/bigtom4.jpeg','Big Tom')"><img src="gallery-assets/Friends/bigtom4.jpeg" alt="" loading="lazy"><div class="caption">Big Tom</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/saldance.jpeg','Sal dancing')"><img src="gallery-assets/Friends/saldance.jpeg" alt="" loading="lazy"><div class="caption">Sal dancing</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/deckstuff.jpeg','Deck')"><img src="gallery-assets/Friends/deckstuff.jpeg" alt="" loading="lazy"><div class="caption">Deck</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/deckstuff-3.jpeg','Deck')"><img src="gallery-assets/Friends/deckstuff-3.jpeg" alt="" loading="lazy"><div class="caption">Deck</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Friends/og-barge.jpeg','OG Barge')"><img src="gallery-assets/Friends/og-barge.jpeg" alt="" loading="lazy"><div class="caption">OG Barge</div></div>
+    </div>
+  </div>
+
+  <div class="cat-section" data-cat="JBF2">
+    <div class="cat-heading"><h2>JBF2</h2><span class="cat-count">13 photos</span></div>
+    <div class="photo-grid">
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/scan.jpeg','JBF2')"><img src="gallery-assets/JBF2/scan.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/scan_1.jpeg','JBF2')"><img src="gallery-assets/JBF2/scan_1.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/scan_2.jpeg','JBF2')"><img src="gallery-assets/JBF2/scan_2.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/scan_3.jpeg','JBF2')"><img src="gallery-assets/JBF2/scan_3.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/scan_1_2.jpeg','JBF2')"><img src="gallery-assets/JBF2/scan_1_2.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/img_0635.jpg','JBF2')"><img src="gallery-assets/JBF2/img_0635.jpg" alt="" loading="lazy"><div class="caption">Photo</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/dad_af-id.jpeg','Dad — AF ID')"><img src="gallery-assets/JBF2/dad_af-id.jpeg" alt="" loading="lazy"><div class="caption">Dad &mdash; AF ID</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/daddeck.jpeg','Dad on the deck')"><img src="gallery-assets/JBF2/daddeck.jpeg" alt="" loading="lazy"><div class="caption">Dad on the deck</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/mom-n-dad1.jpeg','Mom & Dad')"><img src="gallery-assets/JBF2/mom-n-dad1.jpeg" alt="" loading="lazy"><div class="caption">Mom &amp; Dad</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/partyjohn.jpeg','Party John')"><img src="gallery-assets/JBF2/partyjohn.jpeg" alt="" loading="lazy"><div class="caption">Party John</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/posers.jpeg','Posers')"><img src="gallery-assets/JBF2/posers.jpeg" alt="" loading="lazy"><div class="caption">Posers</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/cakepeople.jpeg','Cake people')"><img src="gallery-assets/JBF2/cakepeople.jpeg" alt="" loading="lazy"><div class="caption">Cake people</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF2/turtleneck.jpeg','Turtleneck')"><img src="gallery-assets/JBF2/turtleneck.jpeg" alt="" loading="lazy"><div class="caption">Turtleneck</div></div>
+    </div>
+  </div>
+
+  <div class="cat-section" data-cat="JBF3">
+    <div class="cat-heading"><h2>JBF3</h2><span class="cat-count">11 photos</span></div>
+    <div class="photo-grid">
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/scan.jpeg','JBF3')"><img src="gallery-assets/JBF3/scan.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/jb3-1.jpeg','JBF3')"><img src="gallery-assets/JBF3/jb3-1.jpeg" alt="" loading="lazy"><div class="caption">JBF3-1</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/jb3-2.jpeg','JBF3')"><img src="gallery-assets/JBF3/jb3-2.jpeg" alt="" loading="lazy"><div class="caption">JBF3-2</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/celtic_cats.jpeg','Celtic Cats')"><img src="gallery-assets/JBF3/celtic_cats.jpeg" alt="" loading="lazy"><div class="caption">Celtic Cats</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/cowboydrummer.jpeg','Cowboy Drummer')"><img src="gallery-assets/JBF3/cowboydrummer.jpeg" alt="" loading="lazy"><div class="caption">Cowboy Drummer</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/jbfeeding.jpeg','JB feeding')"><img src="gallery-assets/JBF3/jbfeeding.jpeg" alt="" loading="lazy"><div class="caption">JB feeding</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/jwhite_walkers.jpeg','White Walkers')"><img src="gallery-assets/JBF3/jwhite_walkers.jpeg" alt="" loading="lazy"><div class="caption">White Walkers</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/jb6.jpeg','JBF3')"><img src="gallery-assets/JBF3/jb6.jpeg" alt="" loading="lazy"><div class="caption">JBF3-6</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/gonefishin.jpeg','Gone Fishin')"><img src="gallery-assets/JBF3/gonefishin.jpeg" alt="" loading="lazy"><div class="caption">Gone Fishin&apos;</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/jbcats382.jpeg','JB & cats')"><img src="gallery-assets/JBF3/jbcats382.jpeg" alt="" loading="lazy"><div class="caption">JB &amp; cats</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/JBF3/rage_against_the_duckboats.jpeg','Rage Against the Duckboats')"><img src="gallery-assets/JBF3/rage_against_the_duckboats.jpeg" alt="" loading="lazy"><div class="caption">Rage Against the Duckboats</div></div>
+    </div>
+  </div>
+
+  <div class="cat-section" data-cat="Old_Timey">
+    <div class="cat-heading"><h2>Old Timey</h2><span class="cat-count">3 photos</span></div>
+    <div class="photo-grid">
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Old_Timey/scan.jpeg','Old Timey')"><img src="gallery-assets/Old_Timey/scan.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Old_Timey/scan_copy.jpeg','Old Timey')"><img src="gallery-assets/Old_Timey/scan_copy.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/Old_Timey/bw_2.jpeg','Old Timey B&W')"><img src="gallery-assets/Old_Timey/bw_2.jpeg" alt="" loading="lazy"><div class="caption">B&amp;W</div></div>
+    </div>
+  </div>
+
+  <div class="cat-section" data-cat="Misc">
+    <div class="cat-heading"><h2>Misc</h2><span class="cat-count">4 photos</span></div>
+    <div class="photo-grid">
+      <div class="photo-item" onclick="openLightbox('gallery-assets/./mom-n-dad1.jpeg','Mom & Dad')"><img src="gallery-assets/./mom-n-dad1.jpeg" alt="" loading="lazy"><div class="caption">Mom &amp; Dad</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/./scan.jpeg','Scan')"><img src="gallery-assets/./scan.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/./scan_1.jpeg','Scan')"><img src="gallery-assets/./scan_1.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+      <div class="photo-item" onclick="openLightbox('gallery-assets/./scan_2.jpeg','Scan')"><img src="gallery-assets/./scan_2.jpeg" alt="" loading="lazy"><div class="caption">Scan</div></div>
+    </div>
+  </div>
+
+</div><!-- /.page-wrap -->
+
+<!-- Lightbox -->
+<div id="lightbox">
+  <button class="lb-close" onclick="closeLightbox()">&times;</button>
+  <button class="lb-nav lb-prev" onclick="navLightbox(-1)">&#8249;</button>
+  <img id="lb-img" src="" alt="">
+  <div id="lb-caption" class="lb-caption"></div>
+  <button class="lb-nav lb-next" onclick="navLightbox(1)">&#8250;</button>
+</div>
+
+<script>
+  // Collect all photos in order for lightbox navigation
+  var allPhotos = [];
+  document.querySelectorAll('.photo-item').forEach(function(el) {
+    var args = el.getAttribute('onclick').match(/openLightbox\('([^']+)','([^']*)'\)/);
+    if (args) allPhotos.push({ src: args[1], caption: args[2] });
+  });
+  var currentIdx = 0;
+
+  function openLightbox(src, caption) {
+    currentIdx = allPhotos.findIndex(function(p){ return p.src === src; });
+    document.getElementById('lb-img').src = src;
+    document.getElementById('lb-caption').textContent = caption;
+    document.getElementById('lightbox').classList.add('open');
+  }
+
+  function closeLightbox() {
+    document.getElementById('lightbox').classList.remove('open');
+  }
+
+  function navLightbox(dir) {
+    currentIdx = (currentIdx + dir + allPhotos.length) % allPhotos.length;
+    var p = allPhotos[currentIdx];
+    document.getElementById('lb-img').src = p.src;
+    document.getElementById('lb-caption').textContent = p.caption;
+  }
+
+  document.getElementById('lightbox').addEventListener('click', function(e) {
+    if (e.target === this) closeLightbox();
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (!document.getElementById('lightbox').classList.contains('open')) return;
+    if (e.key === 'Escape') closeLightbox();
+    if (e.key === 'ArrowRight') navLightbox(1);
+    if (e.key === 'ArrowLeft') navLightbox(-1);
+  });
+
+  // Category filter
+  function filterCat(cat, el) {
+    document.querySelectorAll('.cat-pill').forEach(function(p){ p.classList.remove('active'); });
+    el.classList.add('active');
+    document.querySelectorAll('.cat-section').forEach(function(s) {
+      s.style.display = (cat === 'all' || s.dataset.cat === cat) ? '' : 'none';
+    });
+    // Rebuild allPhotos based on visible sections
+    allPhotos = [];
+    document.querySelectorAll('.cat-section:not([style*="none"]) .photo-item').forEach(function(el) {
+      var args = el.getAttribute('onclick').match(/openLightbox\('([^']+)','([^']*)'\)/);
+      if (args) allPhotos.push({ src: args[1], caption: args[2] });
+    });
+  }
+</script>
+
+<script src="nav.js"></script>
+</body>
+</html>
