@@ -94,7 +94,6 @@
   }
 </style>
 
-<script>if(sessionStorage.getItem('jbf-seen'))document.write('<style>#jbf-modal-overlay{display:none}</style>');</script>
 <div id="jbf-modal-overlay">
   <div id="jbf-modal">
     <div class="jbf-eyebrow">A Family Restoration</div>
@@ -107,6 +106,7 @@
     <button onclick="sessionStorage.setItem('jbf-seen','1');document.getElementById('jbf-modal-overlay').style.display='none'">Enter the Site</button>
   </div>
 </div>
+<script>if(sessionStorage.getItem('jbf-seen'))document.getElementById('jbf-modal-overlay').style.display='none';</script>
 
 <BODY BACKGROUND="27.jpg" BGCOLOR="#0000FF" TEXT="#FFFF66" LINK="#33FFFF" VLINK="#C0C0C0" >
 <div style="background:#000080;border:3px solid gold;padding:15px;margin:15px auto;max-width:700px;text-align:center;color:#FFD700;font-family:serif;">
