@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Family History &mdash; Fentner &amp; McGuire</title>
+  <style>
+    /* ── Reset & Base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background-color: #04041a;
+      color: #d4c9a8;
+      font-family: Georgia, 'Times New Roman', serif;
+      line-height: 1.75;
+      font-size: 17px;
+    }
+
+    /* ── Layout ── */
+    .page-wrap {
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 60px 28px 100px;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      text-align: center;
+      padding: 60px 0 50px;
+      border-bottom: 1px solid rgba(255,215,0,0.15);
+      margin-bottom: 60px;
+    }
+    .hero .eyebrow {
+      font-size: 0.72em;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: rgba(255,215,0,0.5);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      margin-bottom: 16px;
+    }
+    .hero h1 {
+      font-size: 2.4em;
+      color: #FFD700;
+      line-height: 1.2;
+      margin-bottom: 12px;
+    }
+    .hero .subtitle {
+      font-size: 1em;
+      color: rgba(255,215,0,0.5);
+      font-style: italic;
+    }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.5em;
+      color: #FFD700;
+      margin: 56px 0 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid rgba(255,215,0,0.2);
+    }
+    h3 {
+      font-size: 1.1em;
+      color: #e8d98a;
+      margin: 32px 0 10px;
+    }
+
+    /* ── Body text ── */
+    p { margin-bottom: 1.2em; }
+    p:last-child { margin-bottom: 0; }
+
+    a { color: #7ec8e3; }
+    a:hover { color: #FFD700; }
+
+    /* ── Pull quote ── */
+    blockquote {
+      border-left: 3px solid rgba(255,215,0,0.35);
+      margin: 28px 0;
+      padding: 14px 24px;
+      color: #b8aa88;
+      font-style: italic;
+      background: rgba(255,215,0,0.03);
+      border-radius: 0 6px 6px 0;
+    }
+    blockquote cite {
+      display: block;
+      margin-top: 8px;
+      font-size: 0.82em;
+      font-style: normal;
+      color: rgba(255,215,0,0.4);
+      letter-spacing: 0.05em;
+    }
+
+    /* ── Timeline ── */
+    .timeline {
+      position: relative;
+      margin: 32px 0;
+      padding-left: 28px;
+    }
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 6px;
+      bottom: 6px;
+      width: 1px;
+      background: linear-gradient(to bottom, rgba(255,215,0,0.4), rgba(255,215,0,0.05));
+    }
+    .timeline-item {
+      position: relative;
+      margin-bottom: 28px;
+    }
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: -32px;
+      top: 7px;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #FFD700;
+      opacity: 0.6;
+    }
+    .timeline-year {
+      font-size: 0.72em;
+      letter-spacing: 0.12em;
+      color: #FFD700;
+      opacity: 0.7;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      text-transform: uppercase;
+      margin-bottom: 3px;
+    }
+    .timeline-event {
+      font-size: 0.95em;
+      color: #c8bb98;
+    }
+
+    /* ── Person card ── */
+    .person-card {
+      background: rgba(255,215,0,0.03);
+      border: 1px solid rgba(255,215,0,0.12);
+      border-radius: 10px;
+      padding: 28px;
+      margin: 28px 0;
+    }
+    .person-card h3 {
+      margin-top: 0;
+      color: #FFD700;
+      font-size: 1.2em;
+    }
+    .person-card .dates {
+      font-size: 0.8em;
+      color: rgba(255,215,0,0.4);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      letter-spacing: 0.08em;
+      margin-bottom: 12px;
+    }
+
+    /* ── Photo grid ── */
+    .photo-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 12px;
+      margin: 28px 0;
+    }
+    .photo-grid figure {
+      margin: 0;
+    }
+    .photo-grid img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 6px;
+      border: 1px solid rgba(255,215,0,0.15);
+      display: block;
+      filter: sepia(20%) brightness(0.9);
+      transition: filter 0.2s, border-color 0.2s;
+      cursor: pointer;
+    }
+    .photo-grid img:hover {
+      filter: sepia(0%) brightness(1);
+      border-color: rgba(255,215,0,0.5);
+    }
+    .photo-grid figcaption {
+      font-size: 0.72em;
+      color: rgba(255,215,0,0.35);
+      margin-top: 6px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      text-align: center;
+    }
+
+    /* ── Lightbox ── */
+    #jbf-lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.92);
+      z-index: 20000;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      cursor: pointer;
+    }
+    #jbf-lightbox.open { display: flex; }
+    #jbf-lightbox img {
+      max-width: 100%;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 4px;
+      border: 1px solid rgba(255,215,0,0.2);
+    }
+
+    /* ── Source box ── */
+    .source-box {
+      background: rgba(255,255,255,0.02);
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 8px;
+      padding: 20px 24px;
+      margin: 20px 0;
+      font-size: 0.85em;
+      color: #9a9080;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      line-height: 1.6;
+    }
+    .source-box strong { color: #b8aa88; }
+
+    /* ── Divider ── */
+    .section-divider {
+      border: none;
+      border-top: 1px solid rgba(255,215,0,0.08);
+      margin: 60px 0;
+    }
+
+    /* ── Family line badge ── */
+    .line-badge {
+      display: inline-block;
+      font-size: 0.68em;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      margin-bottom: 6px;
+      vertical-align: middle;
+    }
+    .line-badge.german { background: rgba(100,140,255,0.12); color: #8ab0ff; border: 1px solid rgba(100,140,255,0.25); }
+    .line-badge.irish  { background: rgba(80,180,100,0.12);  color: #80d490; border: 1px solid rgba(80,180,100,0.25); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .hero h1 { font-size: 1.7em; }
+      .photo-grid { grid-template-columns: repeat(2, 1fr); }
+      .page-wrap { padding: 40px 18px 80px; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="page-wrap">
+
+  <!-- Hero -->
+  <header class="hero">
+    <div class="eyebrow">Family History &mdash; Compiled by John Benz Fentner, Jr.</div>
+    <h1>The Fentner &amp; McGuire Families</h1>
+    <p class="subtitle">Germany &rarr; Massachusetts &nbsp;&bull;&nbsp; County Sligo &rarr; Hartford, Connecticut</p>
+  </header>
+
+  <!-- Introduction -->
+  <section>
+    <p>My father spent years quietly researching our family's origins on both sides — the Fentners, who came from Germany and settled in the Berkshires of Massachusetts, and the McGuires and Goldricks, who survived the Irish Famine, the Black and Tans, and the Atlantic crossing to build a new life in Hartford, Connecticut. What follows is drawn from his files, his correspondence, census records, a genealogy database he assembled in 2002, and a remarkable oral history from County Sligo collected in 2000.</p>
+    <p>Much of the Irish-side research was done in collaboration with Jim Celio, a cousin in Orlando, Florida, who traced Catherine Goldrick McGuire's story back to the shore of Lake Tault in the townland of Gortersluin.</p>
+  </section>
+
+  <!-- ── THE FENTNER LINE ── -->
+  <h2><span class="line-badge german">German</span> The Fentner Line</h2>
+
+  <p>The Fentner family came from Germany, crossing the Atlantic sometime before the 1860s. By 1880 they had settled in Stockbridge, Berkshire County, Massachusetts, where they worked in the woolen mills. The 1880 U.S. Census records the family at Stockbridge:</p>
+
+  <div class="person-card">
+    <h3>John Fentner <span class="line-badge german">Patriarch</span></h3>
+    <div class="dates">Born ~1834 in Germany &mdash; Census: Stockbridge, MA, 1880</div>
+    <p>Occupation: <em>Works in Woolen Mill.</em> Married Henriette (born ~1844, Germany). Both immigrated from Germany; their eldest children were born in Germany, while the younger ones were born in Massachusetts, marking the generation of the crossing.</p>
+  </div>
+
+  <h3>Their Children (1880 Census, Stockbridge, MA)</h3>
+  <div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-year">b. ~1865 &mdash; Germany</div>
+      <div class="timeline-event"><strong>Augusta M. Fentner</strong> &mdash; worked in the woolen mill</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">b. ~1868 &mdash; Massachusetts</div>
+      <div class="timeline-event"><strong>John M. Fentner</strong> &mdash; worked in the woolen mill</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">b. ~1871 &mdash; Massachusetts</div>
+      <div class="timeline-event"><strong>Mary G. Fentner</strong></div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">b. ~1873 &mdash; Massachusetts</div>
+      <div class="timeline-event"><strong>Charles W. Fentner</strong></div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">b. ~1875 &mdash; Massachusetts</div>
+      <div class="timeline-event"><strong>George H. Fentner</strong></div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">b. ~1879 &mdash; Massachusetts</div>
+      <div class="timeline-event"><strong>Frank A. Fentner</strong></div>
+    </div>
+  </div>
+
+  <p>The genealogy data was compiled from the International Genealogical Index via FamilySearch in October 2002. The GED file my father created is preserved on this drive.</p>
+
+  <div class="source-box">
+    <strong>Source:</strong> 1880 United States Census, Stockbridge, Berkshire, Massachusetts. FHL Film 1254521; National Archives Film T9-0521; Page 13B. Compiled via FamilySearch&trade;, October 26, 2002.
+  </div>
+
+  <hr class="section-divider">
+
+  <!-- ── THE MCGUIRE / GOLDRICK LINE ── -->
+  <h2><span class="line-badge irish">Irish</span> The McGuire &amp; Goldrick Line</h2>
+
+  <p>The Irish side of the family runs through County Sligo in the west of Ireland — a region that endured some of the worst devastation of the Great Famine — to Hartford, Connecticut, where Catherine Goldrick arrived in 1902 and built a family of fifteen children.</p>
+
+  <blockquote>
+    "It looks like we dodged a bullet on this one. Sligo was our Grandmother, Catherine Goldrick McGuire's home. The famine occurred about the time her parents were born."
+    <cite>&mdash; John Benz Fentner, Jr., on the Great Famine in Sligo</cite>
+  </blockquote>
+
+  <!-- Gortersluin -->
+  <h3>The Land: Gortersluin, County Sligo</h3>
+  <p>The Goldrick family lived in the townland of Gortersluin (also spelled Gortesluin) in the parish of Kilmacteigue, County Sligo — about 1,100 acres on the slopes of the Ox Mountains, near the road between Tubbercurry and Ballina. The land sits beside Lake Tault, where Neolithic people once built stilt houses, and where Celtic monasteries from the 600s and Norman castles from the 1200s still stand nearby.</p>
+  <p>The townland had been controlled by the O'Hara clan before Oliver Cromwell's forces arrived in the 1690s. Catholics were then barred from owning land; the Goldrick land passed to a Mrs. Irwin, whose family had received it from a Cromwellian officer. The Goldricks remained as tenants for generations, until the Irish land reform movement of the 1880s forced landlords to sell to their tenants.</p>
+
+  <blockquote>
+    "Beul an ath Graugh — which means 'the mouth of the ford of the slaughter' — is situated in Goldrick's land. It was known as a battlefield from many years ago. It is believed that the blood used to flow into the river, turning the water red."
+    <cite>&mdash; Mary Carty, 81, oral history interview, Gortersluin, 2000</cite>
+  </blockquote>
+
+  <!-- Key figures -->
+  <h3>James Goldrick &mdash; The Grandfather</h3>
+  <p>James Goldrick, Catherine's grandfather, was a tenant farmer in Gortersluin. His generation lived through the cholera epidemic of 1832 (which killed roughly a third of the local population) and witnessed the Great Famine of 1845&ndash;1848. A mass grave near the Goldrick home holds victims of both catastrophes. There is a mass path through the woods nearby where families walked to church for generations.</p>
+
+  <div class="person-card">
+    <h3>Catherine "Katie" Goldrick <span class="line-badge irish">Great-Grandmother</span></h3>
+    <div class="dates">Born February 10, 1883, Gortersluin, Co. Sligo &mdash; Died 1964, Connecticut</div>
+    <p>The third of six children born to Patrick Goldrick and Mary Preston. Katie grew up in a two-room stone cottage with a thatched roof, cooking over a turf fire, speaking English (though her grandparents spoke only Gaelic). She attended the local National School and could read and write.</p>
+    <p>After her father Patrick died in May 1902 — cause listed as rheumatism, though no doctor attended — the farm could no longer support the family. In September 1902, Katie boarded a train in Tubbercurry for Queenstown (now Cobh), County Cork. On the 25th, she sailed for America aboard the <em>Majestic</em>, one of the White Star Line's first modern ocean liners.</p>
+    <p>She joined her sister Margaret in Hartford, Connecticut, found work as a housemaid near Farmington Avenue, and rode the trolley to work each day. In 1904 she met the trolley operator: <strong>William James McGuire</strong>.</p>
+  </div>
+
+  <div class="person-card">
+    <h3>William James McGuire <span class="line-badge irish">Great-Grandfather</span></h3>
+    <div class="dates">Born County Westmeath, Ireland &mdash; Immigrated 1904 &mdash; Died 1951, Connecticut</div>
+    <p>A veteran of the Boer War in South Africa, William served twelve years in the Royal Irish Fusiliers — an Irish regiment of the British Army — before immigrating to Hartford in 1904. He became a trolley operator, then worked for the Hartford Rubber Works as a machinist helper for many years.</p>
+    <p>William and Catherine married around 1905. They became U.S. citizens in 1919, raised fifteen children (ten survived childhood), and lived in Hartford, Granby, and West Hartford, Connecticut. William died in 1951; Catherine in 1964. They are buried together at <strong>Rose Hill Cemetery, Rocky Hill, Connecticut</strong>.</p>
+  </div>
+
+  <!-- Timeline -->
+  <h3>Timeline: The Irish Side</h3>
+  <div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-year">1798</div>
+      <div class="timeline-event">A French army under General Humbert marches through Tubbercurry. Irish peasants join with pikes; they are defeated and many flee the country.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">1832</div>
+      <div class="timeline-event">Cholera epidemic sweeps Gortersluin. About a third of the local population perishes. A mass grave is established near the Goldrick home.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">1845&ndash;1848</div>
+      <div class="timeline-event">The Great Famine. Potato blight destroys crops across Sligo. The county's population falls by 52,000, including 20,000 deaths. 162 ships sail from Sligo's port carrying approximately 24,500 emigrants.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">~1875</div>
+      <div class="timeline-event">Patrick Goldrick marries Mary Preston of Ballina, County Mayo. They settle in the family cottage beside Lake Tault.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">February 10, 1883</div>
+      <div class="timeline-event">Catherine "Katie" Goldrick is born in Gortersluin — the third of six children.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">1901</div>
+      <div class="timeline-event">Irish census records Kate, age 17, living at home with her family. Her sister Margaret is already in Hartford, Connecticut.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">May 1902</div>
+      <div class="timeline-event">Patrick Goldrick dies, likely around age 55. The farm cannot support the remaining family.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">September 25, 1902</div>
+      <div class="timeline-event">Catherine boards the <em>Majestic</em> at Queenstown and sails for America. She joins her sister Margaret in Hartford, Connecticut.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">~1905</div>
+      <div class="timeline-event">Catherine marries William James McGuire, a trolley operator and Boer War veteran from County Westmeath.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">1912</div>
+      <div class="timeline-event">A cousin of Catherine's, Jane Carr — who had returned to Tubbercurry in 1909 — books passage back to Hartford. She sails on the <em>Titanic</em>. Her body is never recovered.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">1915</div>
+      <div class="timeline-event">Catherine's sister Delia (Bridget) crosses on the American ship <em>Philadelphia</em> in October — a dangerous wartime voyage, just months after the Germans sank the Lusitania.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">1919</div>
+      <div class="timeline-event">William and Catherine become United States citizens.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">September 30, 1920</div>
+      <div class="timeline-event">The Black and Tans burn much of Tubbercurry in retaliation for the shooting of Deputy Inspector Brady. The town the Goldricks left is largely destroyed.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">1924</div>
+      <div class="timeline-event">Catherine's mother Mary dies at home in Gortersluin. Her death is reported by a neighbor — Mrs. O'Hara — suggesting all the children had by then emigrated.</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">1951 &amp; 1964</div>
+      <div class="timeline-event">William McGuire dies in 1951. Catherine dies in 1964. Both are buried at Rose Hill Cemetery, Rocky Hill, Connecticut.</div>
+    </div>
+  </div>
+
+  <hr class="section-divider">
+
+  <!-- ── ORAL HISTORY ── -->
+  <h2>Oral History: Gortersluin, 2000</h2>
+
+  <p>In 2000, researchers Bernie Meehan and Susan Heneghan interviewed Mary Carty, age 81, who was born and raised in Gortersluin — the same townland where the Goldricks lived. Jim Celio found this interview and shared it with the family by email in August 2006, noting that if Mary was born around 1919, our great-grandmother Mary Preston Goldrick may still have been living there at the time.</p>
+  <p>Mary's account describes the geography, folk memory, and daily life of the townland in extraordinary detail:</p>
+
+  <blockquote>
+    "A particular house that was well known for its poteen making was once raided by the police. The poteen was buried in jars in the ditch. Ann, the lady of the house, sat on the ditch at her ease, knitting — the poteen being buried under her. While the police were raiding the house it never dawned on them that she was guarding it."
+    <cite>&mdash; Mary Carty, Gortersluin, 2000</cite>
+  </blockquote>
+
+  <blockquote>
+    "There was a man-made tunnel leading from Gortersluin to Castlerock and it was said the slabs used were enormous and the men must have been as strong as giants in order to carry them."
+    <cite>&mdash; Mary Carty, Gortersluin, 2000</cite>
+  </blockquote>
+
+  <p>There is also a graveyard called <em>Kill Na gCailín</em> in the nearby townland of Drumartin, where old beggars and unbaptised children were buried, identified by upright stones and flagstones. The last person buried there was "a beggar woman from Masshill, whose remains were carried by a group of men on a moonlit night."</p>
+
+  <hr class="section-divider">
+
+  <!-- ── PHOTOS ── -->
+  <h2>Family Photographs</h2>
+  <p>These photographs were found on my father's backup drive. Many are undated or unidentified — if you recognize someone, please get in touch.</p>
+
+  <div class="photo-grid">
+    <figure>
+      <img src="history-assets/aug 1943.jpg" alt="Family photo, August 1943" onclick="openLightbox(this.src)">
+      <figcaption>August 1943</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/family.jpg" alt="Family photo" onclick="openLightbox(this.src)">
+      <figcaption>Family</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/family2.jpg" alt="Family photo" onclick="openLightbox(this.src)">
+      <figcaption>Family</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/family3.jpg" alt="Family photo" onclick="openLightbox(this.src)">
+      <figcaption>Family</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/johsr_chuckscan0001.jpg" alt="Scanned photo, JohSR and Chuck" onclick="openLightbox(this.src)">
+      <figcaption>John Sr. &amp; Chuck (scanned)</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/regiesr.jpg" alt="Reginald Sr." onclick="openLightbox(this.src)">
+      <figcaption>Reginald Sr.</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/regchas.jpg" alt="Reginald Charles" onclick="openLightbox(this.src)">
+      <figcaption>Reginald Charles</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/mcguiremarriagecert.jpg" alt="McGuire marriage certificate" onclick="openLightbox(this.src)">
+      <figcaption>McGuire Marriage Certificate</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/stone.jpg" alt="Gravestone" onclick="openLightbox(this.src)">
+      <figcaption>Gravestone</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/fentner-stone.jpg" alt="Fentner gravestone" onclick="openLightbox(this.src)">
+      <figcaption>Fentner Stone</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/scan0001.jpg" alt="Scanned document" onclick="openLightbox(this.src)">
+      <figcaption>Scanned document</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/scan0002.jpg" alt="Scanned document" onclick="openLightbox(this.src)">
+      <figcaption>Scanned document</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/scan0003.jpg" alt="Scanned document" onclick="openLightbox(this.src)">
+      <figcaption>Scanned document</figcaption>
+    </figure>
+    <figure>
+      <img src="history-assets/scan0004.jpg" alt="Scanned document" onclick="openLightbox(this.src)">
+      <figcaption>Scanned document</figcaption>
+    </figure>
+  </div>
+
+  <hr class="section-divider">
+
+  <!-- ── SOURCES ── -->
+  <h2>Primary Sources</h2>
+  <div class="source-box">
+    <strong>Genealogy file:</strong> FENTNER.ged — compiled from the International Genealogical Index (FamilySearch&trade;), October 26, 2002. Covers Fentner family in Stockbridge, Berkshire County, Massachusetts, 1880 U.S. Census.
+  </div>
+  <div class="source-box">
+    <strong>"Catherine Goldrick"</strong> — narrative history written by James E. Celio, Orlando, Florida. Covers Catherine Goldrick (1883&ndash;1964), the Goldrick family of Gortersluin, and Catherine's emigration to Hartford, Connecticut in 1902. Multiple drafts dated 2003.
+  </div>
+  <div class="source-box">
+    <strong>Oral history interview with Mary Carty</strong>, age 81, Clooncagh, Aclare, Co. Sligo. Conducted by Bernie Meehan and Susan Heneghan, November 13, 2000. Shared by Jim Celio with family, August 5, 2006.
+  </div>
+  <div class="source-box">
+    <strong>"Famine Years in Sligo"</strong> &mdash; <em>Sligo Weekender</em>, 2000. Saved by John Benz Fentner, Jr. with the note: <em>"It looks like we dodged a bullet on this one. Sligo was our Grandmother, Catherine Goldrick McGuire's home."</em>
+  </div>
+  <div class="source-box">
+    <strong>Family photographs</strong> — scanned and preserved on backup drive. Dates and subjects partially identified.
+  </div>
+  <div class="source-box">
+    <strong>Family correspondence</strong> — emails between John Benz Fentner, Jr., James Celio, and other family members, 2003&ndash;2006. Archived on this drive.
+  </div>
+
+</div><!-- /.page-wrap -->
+
+<!-- Lightbox -->
+<div id="jbf-lightbox" onclick="closeLightbox()">
+  <img id="jbf-lightbox-img" src="" alt="Family photo">
+</div>
+
+<script>
+  function openLightbox(src) {
+    document.getElementById('jbf-lightbox-img').src = src;
+    document.getElementById('jbf-lightbox').classList.add('open');
+  }
+  function closeLightbox() {
+    document.getElementById('jbf-lightbox').classList.remove('open');
+  }
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeLightbox();
+  });
+</script>
+
+<script src="nav.js"></script>
+</body>
+</html>

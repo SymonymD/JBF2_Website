@@ -196,6 +196,7 @@
   // Personal section
   var sec1 = section('Personal');
   sec1.appendChild(link('index.html', '🏠 Home'));
+  sec1.appendChild(link('history.html', 'Family History'));
   sec1.appendChild(link('personal.html', 'Personal Interests'));
   sec1.appendChild(link('marxbros.html', 'Marx Brothers'));
   sec1.appendChild(link('movie.html', 'Movies'));
