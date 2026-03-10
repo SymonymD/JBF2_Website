@@ -195,7 +195,6 @@
 
   // Added by family section
   var sec0 = section('Added by Family');
-  sec0.appendChild(link('index.html', '🏠 Home'));
   sec0.appendChild(link('history.html', 'Family History'));
   panel.appendChild(sec0);
 
@@ -203,6 +202,7 @@
 
   // Personal section
   var sec1 = section("John's Site");
+  sec1.appendChild(link('index.html', '🏠 Home'));
   sec1.appendChild(link('personal.html', 'Personal Interests'));
   sec1.appendChild(link('marxbros.html', 'Marx Brothers'));
   sec1.appendChild(link('movie.html', 'Movies'));
