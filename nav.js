@@ -194,7 +194,7 @@
   panel.appendChild(header);
 
   // Added by family section
-  var sec0 = section('Added by Family');
+  var sec0 = section('Added by JBF3');
   sec0.appendChild(link('history.html', 'Family History'));
   sec0.appendChild(link('photos.html', 'Family Photos'));
   panel.appendChild(sec0);
@@ -237,7 +237,7 @@
   // Footer
   var footer = document.createElement('div');
   footer.className = 'jbf-nav-footer';
-  footer.textContent = 'Navigation added by family · Original site 1996–2000';
+  footer.textContent = 'Navigation added by JBF3 · Original site 1996–2000';
   panel.appendChild(footer);
 
   // ── Hamburger button ─────────────────────────────────────────────────────
