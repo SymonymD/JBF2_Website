@@ -1,0 +1,22 @@
+/* Minimal responsive CSS for JBF site.
+   Rules: no display:block on tables, no width:100% on tables.
+   Only image scaling + text wrapping + scrolling for overflow. */
+
+/* Scale images down proportionally if their container is narrower */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Ensure text wraps on narrow screens */
+td, th, p, blockquote, li {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* On mobile, bump up base font size slightly for readability */
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+}
