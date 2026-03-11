@@ -237,7 +237,7 @@
   // Footer
   var footer = document.createElement('div');
   footer.className = 'jbf-nav-footer';
-  footer.textContent = 'Navigation added by JBF3 · Original site 1996–2000';
+  footer.innerHTML = 'Navigation added by <a href="https://www.jbfentner.design/" target="_blank" rel="noopener" style="color:rgba(255,255,255,0.4);text-decoration:underline;">JBF3</a> · Original site 1996\u20132000';
   panel.appendChild(footer);
 
   // ── Hamburger button ─────────────────────────────────────────────────────
